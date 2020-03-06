@@ -1,0 +1,2029 @@
+Acura Integra GS 92 Cast 14x5.5 15.5
+Acura Integra GS-R 94-95 Cast 15x6 16.0
+Acura Integra GS-R 96 Cast 15x6 15.5
+Acura Integra GS-R 97 (00+ LS) Cast 15x6 15.0
+Acura Integra GS-R 98-01 Cast 15x6 16.3
+Acura Integra Type-R (Euro 5-bolt) Cast 15x6 13.0
+Acura Integra Type-R (JDM 4-bolt) Cast 15x6 12.3
+Acura Integra Type-R (JDM 4-bolt) Cast 16x7 17.0
+Acura Integra Type-R (US 5-bolt) Cast 15x6 15.6
+Acura NSX Forged 15x6.5 15.2
+Acura NSX Forged 16x7 16.8
+Acura NSX Forged 17x8.5 20.9
+Acura RSX Cast 16x6.5 16.0
+Alfa Romeo Cast-Mg 13x5.5 9.0
+Alfa Romeo 156 Cast 16x6.5 21.7
+Alfa Romeo GTV Cast 17x7.5 25.3
+Audi A4 5-spoke Cast 16x7 20.0
+Audi A4 7-spoke Cast 16x7 20.6
+Audi A8 Forged 17x8 21.0
+Audi A8 9-spoke Cast 20x8.5 28.6
+Audi S4 Avus Cast 17x7.5 28.0
+Audi S8 Avus Cast 18x8 27.2
+Audi TT Cast 16x7 18.5
+Audi TT Forged 17x7.5 21.5
+Audi TT Cast 17x7.5 29.0
+BMW 320i Cast 13x6 10.8
+BMW 328is Cast 16x7 19.0
+BMW E30 M3 Cast 15x7 16.0
+BMW E30 M3 (BBS RS003) Cast/Spun 16x7 16.0
+BMW E34 M5 'Throwing Stars' Forged 17x8 19.5
+BMW E36 M3 Cast 17x7.5 22.3
+BMW E36 M3 LTW Forged 17x7.5 20.0
+BMW E39 M5 Forged 18x8 23.6
+BMW E39 M5 Forged 18x9.5 25.6
+BMW Parallels Forged 18x8 23.0
+Chevrolet Corvette Z06 01 Forged 17x9.5 19.6
+Chevrolet Corvette Z06 01 Forged 18x10.5 21.4
+Chevrolet Corvette Z06 01 - CCW skeletal mod Forged 17x9.5 17.8
+Chevrolet Corvette Z06 01 - CCW skeletal mod Forged 18x10.5 19.8
+Chevrolet Corvette Z06 02 Cast/Spun 17x9.5 19.2
+Chevrolet Corvette Z06 02 Cast/Spun 18x10.5 21.0
+Datsun 200SX 80-83 (16-spoke) Cast 14x5.5 15.0
+Datsun 200SX 80-83 (32-spoke) Cast 14x5.5 16.0
+Datsun 200SX 80-83 (disk) Cast 14x5.5 14.0
+Datsun 280Z 79-80 Cast 14x6 18.0
+Datsun 280ZX 81-83 Cast 14x6 13.0
+Datsun 280ZX Turbo 81 Cast 15x6 17.0
+Datsun 280ZX Turbo 82-83 Cast 15x6 14.0
+Datsun 810/Maxima 81-84 Cast 14x5.5 15.0
+Dodge Challenger 78-83 Cast 14x5.5 15.0
+Dodge Colt 88-90 Cast 14x5.5 13.0
+Dodge Conquest 84-86 Cast 14x6 15.0
+Dodge Conquest 84-85 (large vents) Cast 15x6.5 14.0
+Dodge Conquest 84-87 (all others) Cast 15x6.5 16.0
+Dodge Neon ACR 02 Cast 15x6 16.5
+Dodge Viper - 01 Cast 18x10 28.4
+Dodge Viper - 01 Cast 18x13 32.3
+Ford Focus ZTS and Wagon Cast 15x6 15.2
+Ford Focus ZX3 Cast 16x6 19.1
+Ford Mustang - Roush (made by Prime) Cast 17x8 26.5
+Ford Taurus SHO Cast 16x6.5 18.8
+GMC Syclone/Typhoon (Front) Cast/Spun 16x8 21.2
+GMC Syclone/Typhoon (Rear) Cast/Spun 16x8 21.8
+Honda Civic 88-91 Stamped-Steel 13x5 16.0
+Honda Civic EX/Si 92+ Cast 14x5 18.0
+Honda Civic HX 96-97 Cast 14x5.5 11.75
+Honda Civic Type R 02 Cast 17x7 20.2
+Honda CRX Si 90 Cast 14x5 17.0
+Honda Prelude 97-99 Cast 16x6.5 19.0
+Honda Prelude 97-99 SH Cast 16x6.5 19.7
+Honda Prelude VTEC 93 Cast 15x6.5 22.5
+Honda Prelude VTEC/Si 95-96 Cast 15x6.5 17.0
+Honda S2000 Cast 16x6.5 17.5
+Honda S2000 Cast 16x7.5 18.6
+Honda S2000 JDM (BBS) Forged 16x6.5 13.3
+Honda S2000 JDM (BBS) Forged 16x7.5 14.3
+Infinity G20 91-97 Cast 14x6 15.0
+Infinity M30 90-92 Cast 15x6.5 17.0
+Isuzu Impulse, Stylus/Geo Storm 90-93 Cast 14x5.5 14.0
+Isuzu Impulse, Stylus/Geo Storm 90-93 Stamped-Steel 14x5.5 16.0
+Isuzu Impulse, Stylus/Geo Storm 90-93 Cast 15x6 18.0
+Lexus ES300 97 Cast 15x6 18.0
+Mazda 323 7-spoke Cast 15x5.5 15.3
+Mazda 626 83-87 Cast 15x6 16.0
+Mazda 929 93-95 Cast 15x6 12.0
+Mazda Miata 90-93 Cast 14x5.5 12.5
+Mazda Miata 90-97 Stamped-Steel 14x5.5 18.0
+Mazda Miata 92C/93LE (BBS) Forged 14x6 9.0
+Mazda Miata 94 M-Edition Cast 14x6 10.3
+Mazda Miata 94-97 (semi-hollow spokes) Cast 14x6 10.9
+Mazda Miata 94-97 (hollow spokes) Cast 14x6 11.8
+Mazda Miata 95 M-Edition (BBS) Forged 15x6 11.0
+Mazda Miata 96 M-Edition (Enkei) Cast 15x6 14.5
+Mazda Miata 97 M-Edition Cast 15x6 14.5
+Mazda Miata 99-00 Cast 14x6 12.5
+Mazda Miata 99-00 Cast 15x6 13.4
+Mazda Miata 01 Cast 16x6.5 15.5
+Mazda Miata Spare Tire & Wheel (includes tire weight) Stamped-Steel 14x4 21.6
+Mazda Miata UK Cast 15x6 15.0
+Mazda Millenia Cast 15x6 11.5
+Mazda RX7 84-85 Cast 14x5.5 13.0
+Mazda RX7 86-88 Cast 14x5.5 13.5
+Mazda RX7 FD3S Cast 16x8 15.4
+Mazda RX7 FD3S - PFD Cast (Brittle) 16x8 13.8
+Mitsubishi 3000GT VR-4 95 Cast 18x8.5 25.0
+Mitsubishi Galant 91 Cast 15x6 17.0
+Mitsubishi Galant 92 Cast 15x6 16.0
+Mitsubishi Galant 94-96 (5-spoke) Cast 15x6 15.0
+Mitsubishi Galant 96-97 (4-spoke) Cast 15x6 14.5
+Mitsubishi GSX 1997 Cast 17x6.5 25.0
+Nissan 200SX 84 Cast 14x5.5 15.0
+Nissan 200SX 84-87 Cast 15x6 19.0
+Nissan 200SX Turbo 85-86 Cast 15x6 19.0
+Nissan 240SX 89-90 Cast 15x6 16.0
+Nissan 240SX 91-94 Cast 15x6 18.0
+Nissan 240SX 95-96 Cast 15x6 15.0
+Nissan 240SX 95-98 LE and SE Cast 16x6.5 18.5
+Nissan 300ZX 84-85 Cast 15x6.5 19.0
+Nissan 300ZX NA and TT front Cast 16x7.5 16.0
+Nissan Altima 93-97 Cast 15x6 17.0
+Nissan Altima 98-01 Cast 16x6 18.0
+Nissan Maxima 85-86 Cast 15x6 20.0
+Nissan Maxima 87-88 Cast 15x6 17.0
+Nissan Maxima 95-99 GLE Cast 15x6.5 16.5
+Nissan Maxima 95-99 SE Cast 16x6.5 19.6
+Nissan Sentra SE + SE-R 01-02 Cast 16x6 18.0
+Nissan Sentra SE-R Spec V 02 Cast 17x7 24.0
+Nissan Stanza 90-92 Cast 14x6 15.0
+Porsche 911 Fuchs Forged 16x6 17.0
+Porsche 911 Fuchs Forged 16x7 18.0
+Porsche 911 Fuchs Forged 16x8 19.0
+Porsche 911 Fuchs Forged 16x9 20.0
+Porsche 914 6-cylinder 5-bolt (rare) Forged-Mg 15x5.5 7.0
+Porsche 928CS Forged 16x8 19.0
+Porsche 944S2 Cast 16x7 18.7
+Porsche 944S2 Cast 16x8 22.0
+Porsche 944 Turbo/951 'Flat Dish' Forged 16x7 18.5
+Porsche 944 Turbo/951 'Flat Dish' Forged 16x8 20.0
+Porsche 944 Turbo/951 Fuchs Forged 16x7 15.0
+Porsche 944 Turbo/951 Fuchs Forged 16x8 16.0
+Porsche 944 Turbo/951 'Phone Dial' Cast 16x7 18.5
+Porsche 944 Turbo/951 'Phone Dial' Cast 16x8 20.0
+Porsche 944 Turbo/951 'Phone Dial' - Optional Cast 16x8 16.1
+Porsche 944 Turbo/951 'Phone Dial' - Optional Cast 16x9 16.5
+Porsche 944 Turbo S/951S Design 90 'Clubsport' Forged 16x7 18.5
+Porsche 944 Turbo S/951S Design 90 'Clubsport' Forged 16x9 20.0
+Porsche 968 Cast 17x7.5 20.0
+Porsche 968 Cast 17x9 23.0
+Porsche 993 Cast 17x7.5 18.0
+Porsche 993 Cast 17x9 19.5
+Porsche 996 Cast 17x7 19.1
+Porsche 996 Cast 17x9 22.3
+Porsche 996 Cast 18x8 20.0
+Porsche 996 Cast 18x10 23.4
+Porsche Boxter Cast 17x7 20.3
+Porsche Boxter Cast 17x8.5 22.7
+Porsche Club Sports Cast 16x7 19.0
+Porsche Club Sports Cast 16x9 21.5
+Porsche Cup Cast 18x8 26.2
+Porsche Cup Cast 18x10 29.3
+Subaru Impreza MY98 Cast 16x7 17.0
+Subaru Impreza MY99 Cast 16x7 17.0
+Subaru Impreza MY00/01 Cast 16x7 16.5
+Subaru Impreza MY00/01 WRX Sti Forged 17x7.5 19.8
+Subaru Impreza MY02 WRX Cast 16x6.5 16.5
+Subaru Impreza MY02 WRX (BBS) Forged 17x7 16.0
+Subaru Legacy Stamped-Steel 15x6 19.5
+Subaru Legacy GT-B (Japan) Forged 17x7 17.8
+Subaru Legacy (Enkei) Cast 15x6 16.0
+Subaru Legacy Outback (Topy) Cast 15x6 18.0
+Toyota Altezza (Lexus IS300) Z-Edition Cast 17x7 22.0
+Toyota Celica/Supra 82-84 Cast 14x5.5 14.5
+Toyota Celica GTS/Supra P 82-85 Cast 14x7 15.0
+Toyota Corolla 86-87 Cast 14x5.5 14.5
+Toyota Corolla 93-97 Cast 14x5.5 19.0
+Toyota MR2 Cast 15x6 14.5
+Toyota MR2 Cast 15x6.5 15.0
+Toyota MR-S Cast 15x6 14.6
+Toyota MR-S Cast 15x6.5 15.2
+Toyota Supra L 85 Cast 15x6 15.0
+Toyota Supra 86.5-89 Cast 16x7 23.0
+Toyota Van Cast 14x5.5 17.0
+Volkswagen Bravo Cast 17x7.5 22.5
+Volkswagen Cabriolet Cast 14x6 15.5
+Volkswagen Corrado SLC BBS Cast 15x6.5 18.5
+Volkswagen Golf (BBS RM 2-piece) Cast/Cast 15x6.5 15.0
+Volkswagen Golf GTI (BBS RS 3-piece) Forged/Cast 15x7 13.2
+Volkswagen Siata Cast 17x7 21.0
+562 Fuel Cast 17x7 26.5
+562 Kabuki Cast 17x7 27.0
+5Zigen 5ZR Copse Cast/Spun 16x7 15.7
+5Zigen 5ZR Copse Cast/Spun 17x7 23.0
+5Zigen 5ZR Copse Cast/Spun 17x7.5 23.5
+5Zigen Becket FN-01R Forged 15x7 10.6
+5Zigen Becket FN-01R Forged 16x7 11.7
+5Zigen Becket FN-01R Forged 17x8 14.6
+5Zigen Copse Cast 15x7 11.0
+5Zigen DIV.3 Cast 15x6.5 12.6
+5Zigen Fireball Cast 17x7 18.0
+5Zigen Fireball Typhoon Cast 17x7.5 21.5
+5Zigen Fireball Typhoon Cast 17x8 22.0
+5Zigen Fireball Typhoon Cast 17x9 22.5
+5Zigen Heidfeld Cast/Spun 17x7.5 24.3
+5Zigen Imperio M05 Cast 17x7 19.0
+5Zigen Imperio M05 Cast 18x7.5 20.5
+5Zigen Imperio S08 Cast 16x7 19.8
+5Zigen Imperio S08 Cast 17x7 20.5
+5Zigen N1R-SP08 Cast 15x6.5 14.1
+5Zigen N1R-SP08 Cast 17x7 17.5
+ABT Sportsline A-10 Cast 18x8 24.0
+ABT Sportsline A-16 Cast 17x8 24.8
+ABT Sportsline A-23 Cast 17x7.5 22.5
+ABT Sportsline New Classic Cast 18x8 26.0
+ABT Sportsline V1 Cast 17x7.5 21.3
+Ace A109 (Formula) Cast 17x7 25.0
+Ace A131 (Lola) Cast 17x7 23.5
+Ace A134 (Turbo) Cast 17x7 20.5
+Ace A137 (Flame) Cast 18x8.5 31.5
+Ace A151 (Spade) Cast 18x7.5 23.0
+Ace A157 (Monaco) Cast 19x8 27.3
+Ace A164 (Desire) Cast 18x8.5 26.5
+Ace A204 (Impact) Cast 17x7 19.0
+Ace A204 (Impact) Cast 19x8 24.0
+Ace A205 (Manta) Cast 19x8 26.6
+Ace Desire Cast 18x8.5 27.3
+Adler Racing AR05A Cast 16x7 15.7
+Adler Racing AR08 Cast 16x7 15.7
+ADR 39 (Intercrew) Cast 17x7 20.3
+ADR 42 (M-Classic) Cast 20x8.5 29.8
+ADR 43 (X-Factor) Cast 19x8 27.8
+ADR Cobra Cast 17x9 26.0
+ADR DTM Cast 16x7 19.0
+ADR Hypertek Cast 17x7 19.0
+ADR Kasai Cast 18x8 22.8
+ADR Lightning Cast 17x7 25.5
+ADR M-Sport Cast 18x7.5 22.2
+ADR Reaction Cast 16x7 19.9
+ADR Reaction Cast 18x7.5 24.3
+ADR Revolution Cast 17x7 20.5
+ADR RS2000 Cast 17x7 21.0
+ADR RS2000 Cast 18x8 23.0
+ADR RS Limited Concept Pro Cast 15x6.5 13.0
+ADR RS Limited Concept Pro Cast 16x7 16.5
+ADR RS Limited Concept Pro Cast 17x7 18.0
+ADR RS Limited Mase Cast 17x7 17.5
+ADR RS Limited Mase Cast 18x7.5 19.5
+ADR RS Limited Ricochet Cast 17x7 19.4
+ADR Version II Cast 18x8 28.6
+Advan Model 5 Cast 18x8 19.8
+Advan Model 7 Cast 19x9 27.0
+Advan Racing RA3-DT Cast 17x9.5 18.5
+Advan Racing RA3-DT Cast 18x10 20.5
+Advan Racing RC Rally Cast 17x7 18.5
+Advan Racing RG Cast 14x6 8.9
+Advan Racing RG Cast 14x6.5 9.9
+Advan Racing RG Cast 15x6.5 10.5
+Advan Racing RG Cast 15x7 11.4
+Advan Racing RG Cast 15x7.5 12.1
+Advan Racing RG Cast 15x8 12.6
+Advan Racing RG Cast 16x7 12.7
+Advan Racing RG Cast 16x7.5 13.4
+Advan Racing RG Cast 16x8 13.8
+Advan Racing RG Cast 17x7.5 15.2
+Advan Racing RG Cast 17x8.5 16.5
+Advan Racing RG Cast 17x9.5 17.9
+Advan Racing RG Cast 18x9 19.0
+Advan Racing TC Cast 18x7.5 19.8
+Advan Siena Generation II Cast 18x10 25.0
+Advan Super Advan Generation II Cast 18x9.5 25.5
+Advan Super Advan Racing SA3R Cast 17x8 23.5
+Advanti Racing 976 Cast 17x7 21.8
+Advanti Racing Battle Z Cast 17x7 22.0
+Advanti Racing Jazz Cast 16x7 18.5
+Advanti Racing Lightening Cast 17x7 23.5
+Advanti Racing Tuner 6 Cast 17x7 18.0
+Aerospeed RS-11 Cast 17x7 21.4
+Aerospeed RS-12 Cast 17x7 23.5
+Aerospeed RS-14 Cast 17x7 20.5
+Aerospeed RS-6 Cast 17x7 23.0
+AEZ Bimo Cast 18x8.5 26.8
+AEZ Paron Cast 18x8.5 27.4
+AEZ Radon Cast 16x7.5 19.0
+AEZ Simas X Cast 18x8.5 30.5
+AFX Ambush 750 Cast 20x8.5 33.0
+AFX Wedge Cast 17x7.5 27.5
+Akuza 209 Siege Cast 17x7.5 21.0
+Akuza 209 Siege Cast 18x8.5 25.6
+Akuza Z18 Sublime Cast 19x8.5 31.8
+Alba 530 Cast 18x7.5 27.3
+Alba 540 (Lexo) Cast 18x7.5 27.6
+Alba 707 (Bertha) Cast 18x7.5 33.0
+Alba 804 (Delta) Cast 18x8.5 33.3
+Alba 907(Blaze) Cast 20x8.5 31.5
+Alba Helix Cast 17x7.5 26.5
+Alba R-510 Cast 17x7.5 22.0
+Alba Wolverine Cast 17x7.5 27.0
+ALT 148 Cast 15x6.5 16.5
+ALT AT-186 Cast 17x7 24.0
+ALT AT-210 Cast 16x7 15.5
+ALT AT-213 Cast 17x7 19.0
+ALT AT-226 (Ciber) Cast 18x7.5 21.6
+ALT AT-228 (Fusion) Cast 18x8 25.8
+ALT Seven Cast 17x7 23.0
+ALT Slash Cast 17x7 22.3
+ALT X-phile Cast 17x7 20.8
+Altstadt IV Cast 18x8.5 24.5
+Altstadt Mesh Cast 18x8 27.5
+AMG Monoblock Cast 17x7.5 27.5
+AMG Monoblock Cast 17x8.5 28.0
+American Eagle 077 Cast 17x8 22.0
+American Eagle 135 Cast 17x7.5 20.0
+American Eagle 168 (Cobra) Cast 17x9 24.0
+American Racing AR-50 Cast 16x7 17.5
+American Racing AR-55 (Spyder) Cast 14x6 15.0
+American Racing AR-55 (Spyder) Cast 15x7 15.9
+American Racing AR-55 (Spyder) Cast 16x7 17.0
+American Racing AR-95 (Estrella) Cast 14x6 13.5
+American Racing AR-95 (Estrella) Cast 15x7 18.0
+American Racing AR-95 (Estrella) Cast 16x7 20.0
+American Racing AR-210 (Zurg) Cast 16x7 19.5
+American Racing AR-222 (Pinzetti) Cast 16x7 20.0
+American Racing AR-222 (Pinzetti) Cast 17x7 22.5
+American Racing AR-245 (Twisted Tuner) Cast 16x7 21.5
+American Racing AR-245 (Twisted Tuner) Cast 18x7 24.0
+American Racing Libre Cast 14x5.5 13.5
+Anterra Type 145 Cast 17x7 25.0
+Anterra Type 161 Cast 17x7 29.0
+Anterra Type 163 Cast 18x8 33.0
+Anterra Type 165 Cast 18x7.5 24.2
+Anterra Type 183 Cast 18x8 30.8
+Anterra Type 309 Cast 18x8 27.4
+Arbet III Cast 17x7 25.0
+Arbet V Cast 15x7 21.0
+Arceo Eurostar Cast 18x7.5 23.8
+Arceo Megastar Cast 19x8 29.8
+Arelli Bling-Bling (Type 101) Cast 20x8.5 34.0
+Arelli Czar Cast 18x7.5 27.5
+Arelli DeLemma Cast 20x8.5 38.8
+Arelli Kaz'mir Cast 18x8.5 30.0
+Arelli Pulse Cast 17x7 24.0
+Arelli Q Cast 17x7 26.0
+Arelli Sensei Cast 20x8.5 33.8
+Arelli Tranz Cast 18x8.5 26.5
+Arelli Type 170 Cast 17x7.5 26.0
+Arospeed RS11 Cast 17x7 18.5
+Arospeed RS17 Cast 17x7 20.2
+Arospeed RS23 Cast 17x7 18.0
+Arospeed RS-GT Cast 18x7.5 22.8
+ASA EM9 Cast 15x7 19.0
+ASA FR1 Forged 17x7 16.5
+ASA FR1 Forged 17x8 18.0
+ASA JS1 Cast 17x7 18.0
+ASA JS5 Cast 18x8 23.0
+ASA KA3 Cast 17x7.5 23.4
+ASA LS5 Cast 16x7 17.0
+ASA LS5 Cast 17x7 17.4
+AT Italia Alp Cast 17x7.5 25.8
+AT Italia Alp Cast 18x8 27.0
+AT Italia Flash Cast 17x8 25.4
+AT Italia Flash Cast 18x8 27.0
+AT Italia Riva Cast/Spun 17x8 26.0
+AT Italia Riva Cast/Spun 18x8 27.0
+AT Italia S5 Cast 17x7.5 26.0
+AT Italia S5 Cast 18x8 27.0
+ATA H10 Cast 17x7.5 28.5
+ATA H20 Cast 17x7.5 25.0
+ATA H20 Cast 18x8.5 28.8
+ATA H30 Cast 18x7.5 28.4
+ATP 5 Razze Cast 16x7 23.3
+ATP Flashsports Cast 18x8 26.0
+ATP PT5 Cast 17x7.5 28.3
+ATP Spa Cast 17x7 24.5
+ATP Spa Cast 17x8.5 25.8
+ATS Cetus Cast 18x8 26.5
+ATS Comp Lite Cast 15x7 13.0
+ATS Epsilon Cast 17x8 21.4
+ATS Planet Cast 16x7 18.8
+ATS Planet Cast 18x8 25.0
+Autobahn International C2 Cup Cast 17x7.5 21.5
+Autobahn International Twisted Spoke Cast 18x9.5 31.5
+Axis Mach V Cast 16x7 20.0
+Axis Mach V Cast 18x7.5 26.0
+Axis Mag-Lite Cast 15x7 11.5
+Axis Mag-Lite Cast 17x7 15.6
+Axis Mesh Cast 16x7 20.0
+Axis Mesh Cast 17x7 22.5
+Axis Ne-O Cast 17x7 20.8
+Axis Ne-O Cast 19x8 26.3
+Axis Seven Cast 19x8 24.3
+Axis Speed Six Cast 19x8 26.0
+Axis Starz Cast 17x7 21.8
+Axis Touring Cup Cast 16x7 20.0
+Axis Touring Cup Cast 18x7 23.0
+Axis WSM2 Cast 17x7 20.2
+Azev Type H Cast 18x8 27.5
+Azev Type LS Cast 18x8.5 27.6
+Azev Type M Cast 18x8.5 32.4
+Azzur Matrix Cast 20x8.5 33.0
+BBS CH Cast 18x8 24.0
+BBS CH Cast 18x8.5 24.5
+BBS CH Cast 19x8.5 26.0
+BBS CH Cast 19x10 28.0
+BBS DTM Forged 17x7.5 17.9
+BBS DTM Forged 17x8 18.3
+BBS DTM Forged 17x9 19.6
+BBS DTM Forged 18x7.5 19.8
+BBS DTM Forged 18x8.5 21.4
+BBS DTM Forged 18x9.5 21.8
+BBS DTM Forged 18x10.5 23.8
+BBS DTM Forged 19x9.5 24.7
+BBS DTM Forged 19x10.5 25.8
+BBS GTII Forged/Spun 18x8 20.3
+BBS GTII Forged/Spun 18x8.5 20.7
+BBS GTII Forged/Spun 18x9 21.0
+BBS GTII Forged/Spun 18x9.5 21.8
+BBS GTII Forged/Spun 18x10 21.2
+BBS GTII Forged/Spun 18x11 22.9
+BBS LM Forged/Spun 17x9 21.4
+BBS LM Forged/Spun 18x8 21.6
+BBS LM Forged/Spun 18x8.5 22.4
+BBS LM Forged/Spun 18x9.5 23.8
+BBS LM Forged/Spun 18x10 25.8
+BBS LM Forged/Spun 18x11 26.9
+BBS LM Forged/Spun 18x13 29.4
+BBS LM Forged/Spun 19x8.5 25.0
+BBS LM Forged/Spun 19x10 27.5
+BBS RC (soft) Cast 16x7 15.0
+BBS RC (soft) Cast 16x7.5 16.0
+BBS RC (soft) Cast 17x7 16.0
+BBS RC (soft) Cast 17x8 16.4
+BBS RC (soft) Cast 17x9 18.4
+BBS RC (soft) Cast 18x8 19.5
+BBS RC (soft) Cast 18x8.5 18.7
+BBS RC (soft) Cast 18x10 19.5
+BBS RCJ Forged 18x8 17.9
+BBS RCJ Forged 18x9 18.7
+BBS RG F1-Racing (Japan Only) Forged 15x6.5 9.9
+BBS RG F1-Racing (Japan Only) Forged 15x7 10.2
+BBS RG F1-Racing (Japan Only) Forged 16x7 12.6
+BBS RG-R Forged 17x7.5 17.0
+BBS RG-R Forged 18x7.5 17.2
+BBS RG-R Forged 18x8 17.2
+BBS RG-R Forged 18x8.5 18.0
+BBS RK Cast 15x7 14.2
+BBS RK Cast 16x7 15.3
+BBS RK Cast 16x8 15.9
+BBS RK Cast 17x7 16.2
+BBS RK Cast 17x8 16.5
+BBS RK Cast 18x7.5 18.2
+BBS RKII Cast 17x7.5 20.7
+BBS RKII Cast 17x8 21.5
+BBS RKII Cast 17x9 22.1
+BBS RKII Cast 18x8.5 23.0
+BBS RKII Cast 18x10 24.6
+BBS RMII Cast/Spun 17x8 24.0
+BBS RSII Forged/Cast 17x8 23.0
+BBS RSII Forged/Cast 18x8.5 24.0
+BBS RSII Forged/Cast 18x10 25.4
+BBS RSII Forged/Cast 20x9 27.4
+BBS RSII Forged/Cast 20x10 28.3
+BBS RTII Delta Cast/Spun 17x9.5 29.2
+BBS RTII Delta Cast/Spun 18x10 33.4
+BBS RV Cast 14x6 12.7
+BBS RV Cast 15x7 15.5
+BBS RV Cast 16x7 16.0
+BBS RV Cast 16x8 18.2
+BBS RV Cast 17x7.5 18.4
+BBS RV Cast 17x8 21.1
+BBS RWII Cast/Spun 17x7.5 22.6
+BBS RWII Cast/Spun 17x8 23.9
+BBS RWII Cast/Spun 18x8.5 25.3
+BBS RWII Cast/Spun 18x10 26.3
+BBS RX Cast 16x7 19.5
+BBS RX Cast 16x8 22.0
+BBS RX Cast 17x7.5 20.0
+BBS RX Cast 17x8 22.7
+BBS RX Cast 18x8 24.2
+BBS RX Cast 18x8.5 26.1
+BBS RXII Cast/Spun 17x7.5 21.2
+BBS RXII Cast/Spun 17x8 23.6
+BBS RXII Cast/Spun 18x8.5 26.3
+BBS SX Cast 18x8 25.0
+BBS VZ Cast 17x7.5 19.0
+Billet Specialties E1 Cast 17x7 23.3
+Billet Specialties SLX 21 Cast 18x7 22.4
+Billet Specialties SLX 30 Cast 18x7 26.2
+Black Racing Phantom Cast 15x6.5 14.3
+Blitz Technospeed Z1 Forged/Spun 18x10 25.8
+Blitz Technospeed Z1 Forged/Spun 19x10 28.5
+Blitz Technospeed Z1 Forged/Spun 19x9 25.8
+Blitz Technospeed Z2 Forged/Spun 18x9 24.0
+Blitz Type 01R Forged 16x7 16.8
+Blitz Type 02 Forged/Spun 15x7 13.0
+Blitz Type 03 Forged/Spun 18x8 22.5
+Blitz Type 03 Forged/Spun 18x9 26.8
+Bogart Unknown 13x5.5 15.3
+Borbet Type B Cast 15x7 17.5
+Borbet Type C Cast 15x7 16.5
+Borbet Type C Cast 17x7.5 24.0
+Borbet Type C2T (Porsche OE) Cast 17x7.5 22.0
+Borbet Type C2T (Porsche OE) Cast 17x9 23.5
+Borbet Type C2T Cast 17x7.5 28.0
+Borbet Type C2T Cast 17x9 30.0
+Borbet Type E Cast 15x7 17.5
+Borbet Type E Cast 17x7 21.0
+Borbet Type E Cast 17x8 23.6
+Borbet Type F Cast 16x7 19.0
+Borbet Type H Cast 15x7 21.0
+Borbet Type M Cast 16x7 23.0
+Borbet Type M Cast 17x8 27.5
+Borbet Type R Cast 17x8 20.5
+Borbet Type R Cast 18x8 23.0
+Borbet Type S Cast 17x7 21.0
+Borbet Type S Cast 18x8 22.5
+Borbet Type T Cast 14x6 14.2
+Borbet Type T Cast 15x7 18.0
+Borbet Type T Cast 16x7.5 21.0
+Borbet Type T Cast 17x7 22.5
+Borbet Type TD Cast 18x8 25.0
+Borbet Type VS Cast 18x8 24.0
+Branzach BZ-11 Cast 18x8 28.0
+Branzach BZ-12 (Zeo) Cast 18x7.5 24.2
+Breyton Inspiration Cast 17x7 23.5
+Breyton Magic Cast 18x8.5 28.0
+Breyton Softline Cast 17x8 24.0
+BSA 248 Cast 18x7.5 23.2
+BSA 259 Cast 18x7.5 24.4
+BSA Octopus Cast 16x7 19.5
+Buddy Club P1 QF Forged 15x7 10.1
+Buddy Club P1 QF Forged 16x7 11.1
+Buddy Club P1 QF Forged 17x7.5 12.9
+Buddy Club P1 QF Forged 17x8 13.6
+Buddy Club P1 QF Forged 17x9 14.5
+Buddy Club P1 QF Forged 17x9.5 15.1
+Buddy Club P1 QF Forged 18x9 14.8
+Buddy Club P1 QF Forged 18x10 16.1
+Buddy Club PL Racing SF Cast 15x6.5 10.1
+Buddy Club PL Racing SF Cast 17x7 17.0
+Budnik Gasses Cast 17x8 20.0
+Budnik Grid Cast 17x7 21.5
+Budnik GT-5 Lite Cast 18x7 23.0
+Budnik Pentacle FL Cast 17x8 25.2
+Budnik Prism Cast 18x8 21.0
+CAM 1 (Challenge) Cast 16x7 18.0
+CAM 1 (Challenge) Cast 17x7 21.0
+CAM 2 (Trophy) Cast 16x7 16.5
+Carlsson Design 1/5 Cast 18x8.5 29.3
+Carlsson Design 1/6 EVO Cast 19x8.5 33.3
+Carlsson Design 2/5 Cast 18x8.5 33.0
+Carusi Type 62 Cast 17x7 28.0
+CCW (not hub or lug-centric) Forged/Spun 17x9.5 18.0
+CCW (not hub or lug-centric) Forged/Spun 17x10 18.6
+CCW (not hub or lug-centric) Forged/Spun 18x10 22.0
+CEC Techart Daytona Cast 18x11 27.8
+CEC Type 139 Cast 17x7 25.0
+CEC Type 149 Cast 18x8 25.0
+CEC Type 169 Cast 18x8.5 33.0
+CEC Type 185 (Antera) Cast 17x7.5 27.0
+CEC Type 971 (Valbrem) Cast 16x7 23.0
+CEC Type 992 Cast 17x7.5 21.0
+CEC Type H (Azev) Cast 17x7.5 26.0
+Centerline Convo-Pro Forged 15x15 14.5
+Centerline RPM Forged 17x7 13.5
+Centerline RPM Forged 18x8.5 15.0
+Centerline RPM Forged 19x7.5 15.6
+Centerline Thruster 806 Cast 17x9.5 22.0
+Circlar GTA Cast 18x8.5 21.6
+Circle Racing Series 82 Spun 13x5.5 7.7
+Circle Racing Series 82 Spun 13x6 8.0
+Circle Racing Series 82 Spun 13x7 8.7
+Circle Racing Series 82 Spun 13x8 9.7
+Circle Racing Series 82 Spun 14x7 11.5
+Circle Racing Series 82 Spun 15x10 15.3
+Circle Racing Series 82 Spun 15x7 12.2
+Circle Racing Series 82 Spun 15x8 13.7
+Circle Racing Series 82 Spun 16x7 13.2
+Circle Racing Series 82 Spun 16x8 14.4
+Circle Racing Series 82 Spun 16x9.5 15.8
+Circle Racing Series 84 Spun 13x5.5 8.2
+Circle Racing Series 84 Spun 13x6 8.8
+Circle Racing Series 84 Spun 13x8 9.2
+Club Linea Special Cast 18x8 25.0
+Cobb Tuning CT-One Cast 17x7.5 22.0
+Compomotive ML Cast 13x5.5 13.2
+Compomotive ML Cast 13x6 13.6
+Compomotive ML Cast 13x7 14.3
+Compomotive ML Cast 13x8 14.5
+Compomotive ML Cast 13x9 14.7
+Compomotive ML Cast 13x10 15.4
+Compomotive ML Cast 14x6 13.6
+Compomotive ML Cast 15x5.5 16.5
+Compomotive ML Cast 15x6 18.0
+Compomotive ML Cast 15x7 20.9
+Compomotive ML Cast 15x8 22.0
+Compomotive MO Cast 14x5.5 15.0
+Compomotive MO Cast 14x6 15.0
+Compomotive MO Cast 15x6 17.2
+Compomotive MO Cast 15x7 18.7
+Compomotive MO Cast 15x8 18.9
+Compomotive MO Cast 16x5.5 16.5
+Compomotive MO Cast 16x6 16.9
+Compomotive MO Cast 16x6.5 17.4
+Compomotive MO Cast 16x7 19.6
+Compomotive MO Cast 16x7.5 21.8
+Compomotive MO Cast 16x8 20.9
+Compomotive MO Cast 17x7 21.3
+Compomotive MO Cast 17x7.5 22.4
+Compomotive MO Cast 17x8 24.0
+Compomotive MO Cast 18x8 26.4
+Compomotive PS Cast 17x10 20.5
+Compomotive TH Cast 13x5 11.2
+Compomotive TH Cast 13x5.5 11.4
+Compomotive TH Cast 14x5 12.8
+Compomotive TH Cast 14x5.5 15.0
+Compomotive TH Cast 14x6 15.6
+Compomotive TH Cast 15x5 16.1
+Compomotive TH Cast 15x5.5 16.3
+Compomotive TH Cast 15x6 16.6
+Compomotive TH Cast 15x6.5 17.8
+Compomotive TH Cast 15x7 18.3
+Compomotive TH Cast 15x7.5 19.1
+Compomotive TH Cast 15x8 20.0
+Compomotive TH Cast 16x5.5 20.0
+Compomotive TH Cast 16x6 20.5
+Compomotive TH Cast 16x7 20.9
+Compomotive TH Cast 16x7.5 20.5
+Compomotive TH Cast 16x8 20.9
+Compomotive TH2 Cast 15x5.5 18.1
+Compomotive TH2 Cast 15x6 16.9
+Compomotive TH2 Cast 15x6.5 17.9
+Compomotive TH2 Cast 15x7 18.1
+Compomotive TH2 Cast 16x6.5 18.1
+Compomotive TH2 Cast 17x7.5 21.2
+Compomotive TH2 Cast 18x8 24.1
+Concept Neeper Dagg Cast 20x8.5 33.0
+Concept Neeper Fly Cast 20x8.5 32.0
+Concept Neeper Haaz Cast 18x8.5 30.3
+Concept Neeper N170 Cast 20x8.5 30.3
+Concept Neeper Sideburn Cast 18x7 35.6
+Concord Racing Cast 15x7 24.0
+Cromodora Ego Cast 16x7 22.0
+DAZZ Camus Cast 19x9.5 27.3
+DAZZ Matrix Cast 19x9.5 28.0
+Desmond Rega Master EVO Forged 15x6.5 8.6
+Desmond Rega Master EVO Forged 16x7 11.9
+Desmond Rega Master EVO Forged 16x8 12.9
+Desmond Rega Master EVO Forged 17x7 15.0
+Detata DT-105 Cast 17x8 26.0
+Detata DT-109 Cast 17x7.5 28.3
+Detata DT-111 Cast 17x7.5 24.0
+Diamond Racing Spun-Steel 13x6 11.0
+Drive Mach 5 Cast 20x8.5 34.3
+Drive Zila Cast 20x8.5 42.5
+Dronell CA-05 Cast 20x8.5 30.6
+Dronell D-06 Cast 19x8 27.8
+Dronell M-10 Forged 19x8.5 18.5
+Dronell TS-05 Cast 17x7 18.0
+Dronell TS-06 Cast 17x7 20.8
+Dronell Type II Cast 19x7.5 28.8
+DTM FS-01 Cast 15x6.5 14.8
+DTM FS-02 Cast 15x6.5 14.7
+DTM FS-02 Cast 17x7 21.0
+Ducatro Daytona Cast/Spun 15x6.5 14.8
+Duralight Cast 17x10 18.0
+Dymag Motorsport Cast-Mg 15x6 10.8
+Dymag Motorsport Cast-Mg 16x7 13.0
+Dymag Callaway Corvette Cast-Mg 17x8 12.9
+Elite 726 Rockport Cast 16x7 20.0
+Elite Barb Cast 18x7 28.4
+Elite Indis Cast 20x8.5 36.5
+EMO 502 (Ozone) Cast 15x7 22.0
+EMO 702 (Obelix) Cast 15x7 20.6
+EMPI 5-spoke Cast 15x5.5 20.0
+Enkei Aegis Cast 17x7 20.7
+Enkei Aegis Cast 17x8 21.9
+Enkei Aegis Cast 17x9 22.1
+Enkei Aegis Cast 18x8 23.1
+Enkei Aegis Cast 18x8.5 23.3
+Enkei Aegis Cast 18x9.5 23.7
+Enkei Aegis Cast 18x10 24.3
+Enkei Aegis Cast 19x8.5 24.8
+Enkei Aegis Cast 19x9.5 24.9
+Enkei Aka Cast 17x7.5 28.2
+Enkei Aka Cast 18x7.5 30.0
+Enkei Aka Cast 20x8.5 37.4
+Enkei Arashi Cast 17x7 19.0
+Enkei Bortex MII (RPM-2) Cast 17x7 16.0
+Enkei Bortex MII (RPM-2) Cast 17x8 16.2
+Enkei Bortex MII (RPM-2) Cast 17x9 17.9
+Enkei Bortex MII (RPM-2) Cast 18x7.5 17.5
+Enkei Bortex MII (RPM-2) Cast 18x8 17.5
+Enkei Bortex MII (RPM-2) Cast 18x9 18.0
+Enkei CDR9 Cast 15x6.5 16.7
+Enkei CDR9 Cast 16x7 18.9
+Enkei CDR9 Cast 17x7 21.6
+Enkei CDR9 Cast 18x7 23.1
+Enkei C.R.A.N.K. Cast 17x7.5 27.1
+Enkei CTM-3 Cast 15x8 24.6
+Enkei CTM-3 Cast 15x10 28.3
+Enkei CTM-3 Cast 16x8 27.1
+Enkei CTM-4 Cast 16x8 28.4
+Enkei CTM-5 Cast 15x8 24.0
+Enkei CTM-5 Cast 15x10 25.0
+Enkei CTM-5 Cast 16x8 24.5
+Enkei Duji Cast 17x7 23.0
+Enkei ERO-1 Cast 15x7 17.2
+Enkei ERO-1 Cast 16x7 18.0
+Enkei ES-Gravel Cast 14x6 12.9
+Enkei ES-Tarmac Cast 14x6 8.7
+Enkei ES-Tarmac Cast 14x6.5 8.9
+Enkei ES-Tarmac Cast 15x6.5 10.7
+Enkei ES-Tarmac Cast 15x7 11.0
+Enkei ES-Tarmac Cast 15x7.5 11.6
+Enkei ES-Tarmac Cast 16x7 13.7
+Enkei ES-Tarmac Cast 16x7.5 14.3
+Enkei ES-Tarmac Cast 17x7.5 14.8
+Enkei Etoria Cast 15x6 17.0
+Enkei EUM5 Cast 15x6.5 16.0
+Enkei EUM5 Cast 16x7 18.0
+Enkei Exocent Cast 19x9.5 31.0
+Enkei Fubuki Cast 17x7 23.2
+Enkei Gattling Cast 18x10 27.0
+Enkei GTV Cast 18x8 24.3
+Enkei Inazuma Cast 17x7 21.7
+Enkei J-Speed III Cast/Spun 14x5 11.0
+Enkei J-Speed III Cast/Spun 14x6 11.2
+Enkei J-Speed III Cast/Spun 14x6.5 11.5
+Enkei J-Speed III Cast/Spun 14x7 11.7
+Enkei J-Speed III Cast/Spun 15x6 12.6
+Enkei J-Speed III Cast/Spun 15x6.5 12.8
+Enkei J-Speed III Cast/Spun 15x7 13.2
+Enkei J-Speed III Cast/Spun 15x7.5 13.4
+Enkei J-Speed III Cast/Spun 16x7 15.0
+Enkei J-Speed III Cast/Spun 16x7.5 15.4
+Enkei J-Speed III Cast/Spun 16x8 16.1
+Enkei Kriminal Cast 23x10 60.0
+Enkei Liberty Cast 17x9 32.8
+Enkei Liberty Cast 18x9 33.6
+Enkei NP03 Cast 16x7 17.6
+Enkei NP03 Cast 18x7 19.3
+Enkei Phalenx Cast 17x7 21.9
+Enkei Phalenx Cast 17x8 23.0
+Enkei Phalenx Cast 17x9 23.3
+Enkei Phalenx Cast 18x7 23.1
+Enkei Phalenx Cast 18x8 23.8
+Enkei Phalenx Cast 18x9 24.2
+Enkei Phalenx Cast 18x10 26.2
+Enkei Phalenx Cast 19x8.5 28.5
+Enkei Phalenx Cast 19x10 29.6
+Enkei RC5 Cast 17x7 18.0
+Enkei RCT-1 Cast 15x7 14.5
+Enkei RCT-1 Cast 16x7 16.7
+Enkei RCT-1 Cast 17x7 17.8
+Enkei RF-1 Cast 15x7 15.9
+Enkei RF-1 Cast 16x7 16.5
+Enkei RF-1 Cast 17x7 18.1
+Enkei RF1 Cast 16x7 16.5
+Enkei RMR Cast 17x7.5 20.0
+Enkei RP-F1 Cast 15x7 9.1
+Enkei RPM-2 Cast 17x8 17.4
+Enkei RPO-1 Cast 15x7 14.3
+Enkei RPO-1 Cast 16x6.5 14.5
+Enkei RPO-1 Cast 16x7 15.8
+Enkei RPO-1 Cast 17x7 17.6
+Enkei RPO-1 Cast 17x7.5 18.0
+Enkei RPO-1 Cast 17x8 18.2
+Enkei RPO-1 Cast 17x9 20.0
+Enkei RPO-1 Cast 18x8.5 20.7
+Enkei RPO-1 Cast 18x9 21.3
+Enkei RPO-1 Cast 18x9.5 23.4
+Enkei RPO-2 Cast 15x5 14.1
+Enkei RPO-2 Cast 15x7 15.2
+Enkei RPO-2 Cast 16x7 17.0
+Enkei RPO-2 Cast 16x8 17.5
+Enkei RPO-2 Cast 17x7 18.5
+Enkei RPO-2 Cast 17x7.5 19.1
+Enkei RPO-2 Cast 17x8 19.8
+Enkei RPO-2 Cast 17x9 20.3
+Enkei RPO-2 Cast 18x7.5 20.8
+Enkei RPO-2 Cast 18x8 21.3
+Enkei RPO-2 Cast 18x9 21.9
+Enkei RPO-5 Cast 17x7 20.0
+Enkei RPO-5 Cast 18x7 22.0
+Enkei RPO-7 Cast 18x7 20.0
+Enkei RPO-7 Cast 19x7.5 21.0
+Enkei RPOM Cast 17x7 19.5
+Enkei RPOM Cast 18x7 21.0
+Enkei RS Evolution Cast 16x7 17.0
+Enkei RS Evolution Cast 17x7 19.4
+Enkei RS-5 Cast 15x6.5 15.4
+Enkei RS-5 Cast 16x7 17.6
+Enkei RS-5 Cast 17x7 19.8
+Enkei RS-5 Cast 18x7 21.6
+Enkei RS-6 Cast 15x6.5 17.5
+Enkei RS-6 Cast 16x7 19.6
+Enkei RS-6 Cast 17x7 20.2
+Enkei RS-6 Cast 18x7 23.3
+Enkei RS-E Cast 16x7 18.1
+Enkei RS-E Cast 17x7 19.4
+Enkei RSF-2 Cast 15x6.5 16.3
+Enkei RSF-2 Cast 16x7 18.1
+Enkei RSF-2 Cast 17x7 19.8
+Enkei RSF-2 Cast 18x7 21.8
+Enkei RT6 Cast 17x8 24.6
+Enkei RT6 Cast 18x8.5 26.1
+Enkei RTO-1 Cast 16x7 16.0
+Enkei RTS Cast 16x8 22.1
+Enkei RTS Cast 17x8 23.9
+Enkei Shogun Cast 17x7 24.9
+Enkei Shutoko Cast 17x7 23.7
+Enkei Silverstar Cast 17x9 29.7
+Enkei Silverstar Cast 18x9 30.6
+Enkei SS6A Cast 15x6.5 15.8
+Enkei Suzuka Cast 17x7 21.5
+Enkei Tatonka Cast 17x8 28.5
+Enkei Tatonka Cast 18x9 30.3
+Enkei TBS1 Cast 16x7 18.3
+Enkei TBS1 Cast 17x7 20.0
+Enkei TBS11 Cast 16x7 18.3
+Enkei TBS11 Cast 17x7 20.0
+Enkei Tuscarora Cast 16x8 26.7
+Enkei Tuscarora Cast 17x8 28.4
+Enkei Tuscarora Cast 18x9 32.5
+Enkei V-1 Cast 17x8 23.8
+Enkei V-1 Cast 17x8.5 23.9
+Enkei V-1 Cast 17x9 24.2
+Enkei V-1 Cast 17x9.5 25.0
+Enkei V-1 Cast 18x8 26.0
+Enkei V-1 Cast 18x8.5 26.6
+Enkei V-1 Cast 18x9 26.7
+Enkei V-1 Cast 18x9.5 27.0
+Enkei V-1 Cast 18x10 27.4
+Enkei Valor Cast 17x9 30.0
+Enkei Valor Cast 18x9 30.3
+Enkei Valor Cast 20x9 33.8
+Enkei Victory Cast 17x9 30.0
+Enkei Victory Cast 18x9 31.2
+Enkei Victory Cast 20x9 33.9
+Enkei Zenkei Cast 17x7 26.0
+Enkei Zoku Cast 17x7 19.8
+Enkei ZXC Cast 17x8.5 21.4
+Enkei ZXC Cast 18x9 23.8
+Enzo Cup Cast 17x8 28.8
+Enzo M Cast 16x7.5 23.5
+Enzo V Cast 16x7 22.0
+Epic Laguna Cast 16x7.5 24.5
+Epic Series 73 (Aero) Cast 17x7 26.0
+Fast Wheels Not-captured 13x5.5 14.0
+Fikse ARO Forged/Spun 17x10 18.9
+Fikse FM-10 Forged/Spun 17x10 18.5
+Fikse FM-10 Forged/Spun 18x8 20.8
+Fikse FM-10 Forged/Spun 18x9.5 20.9
+Fikse FM-5 Forged/Spun 17x8.5 17.5
+Fikse FM-5 Forged/Spun 17x10 18.5
+Fikse FM-5 Forged/Spun 17x8.5 16.0
+Fikse FM-5 Forged/Spun 18x8.5 18.0
+Fikse Mach 5 Forged/Spun 17x10 18.5
+Fittipaldi 500 SS Cast 17x7 23.3
+Fittipaldi 916 SP Cast 18x8 23.3
+Fittipaldi Argus Cast 20x8.5 31.0
+Fittipaldi AV3 Cast 17x8 27.0
+Fittipaldi Avus Cast 17x8 27.0
+Fittipaldi Fin Cast 18x8.5 29.4
+Fittipaldi Flame Cast 17x7 20.0
+Fittipaldi Polaris Cast 17x8 28.5
+Fittipaldi Tubolare Cast 18x8 33.0
+Fittipaldi Vela Cast 18x8 23.3
+FLIK LEX Cast 17x7 18.0
+FLIK LEX Cast 17x8 19.0
+FLIK LEX Cast 18x8 22.0
+Focal F1 (Type 173) Cast 18x7 25.6
+Focal F10 Cast 18x7 26.3
+Focal F5 Cast 17x7 23.5
+Focal F5 Cast 18x7 25.0
+Focal G7 Cast 18x7 27.3
+Focal R3 Cast 18x7 26.3
+Focal SD5 Cast 18x7 26.0
+Fondmetal Tech 4 Cast 18x8 27.8
+Fondmetal Type 6700 Cast 16x7 22.2
+Fondmetal Type 6800 Cast 16x7 22.6
+Fondmetal Type 9a Cast 17x7 24.6
+Forgeline LS Forged/Spun 17x8 19.5
+Forgeline LS Forged/Spun 17x9.5 18.5
+Forgeline RS (brittle)  Forged/Spun 16x8 17.2
+Forgeline RS (brittle)  Forged/Spun 17x9.5 18.5
+Forgeline RS (brittle) Forged/Spun 18x9.5 22.5
+Formula F1 (TE-37 copy) Cast 15x6.5 13.5
+Formula F1 (TE-37 copy) Cast 16x7 15.5
+Formula F1 (TE-37 copy) Cast 17x7 18.5
+Formula F1 (TE-37 copy) Cast 18x7 19.5
+GAB Sports Cast 16x7 15.0
+GAB Sports Cast 16x8 16.3
+Gianelle 5 (Twin) Cast 18x7.5 24.2
+Gianelle 6 (Oval) Cast 18x8.5 27.2
+Giovanna Akita Cast 18x7.5 20.0
+Giovanna Anzio Cast 18x7.5 22.8
+Giovanna Anzio Cast 22x9.5 37.0
+Giovanna Barletta Cast 20x8.5 46.0
+Giovanna Berlin Cast 20x10 42.0
+Giovanna Boizano Cast 20x8.5 37.0
+Giovanna Chiba Cast 18x7.5 24.5
+Giovanna Kobe Cast 18x7.5 24.3
+Giovanna Kuji Cast 18x7.5 26.3
+Giovanna Kyoto Cast 18x7.5 25.0
+Giovanna Mito Cast 18x7.5 22.6
+Giovanna Nagano Cast 18x7.5 23.0
+Giovanna Rio Cast 18x8.5 29.5
+Giovanna Suzu Cast 15x6.5 12.5
+Hamann Magnesium Forged 19x8.5 18.0
+Hart Sport Diablo Cast 17x10 21.0
+Hart Sport Mirage Cast 17x10 21.0
+Hart Sport Odyssey Cast 17x10 21.0
+Hartge Classic Cast 19x9.5 30.0
+Hartge Nova 3 Cast 18x8.5 25.0
+Hartge Nova 5 Cast 19x9.5 31.0
+Hayashi Street Wheel Cast 15x6.5 13.2
+Hayashi Street Wheel Cast 15x7 13.9
+Hokuto Racing Miyabi Cast 17x7 21.5
+HP Racing Avalanche Cast 17x7.5 23.0
+HP Racing Flight Cast 18x8 22.0
+HP Racing Fusion Cast 17x7 21.2
+HP Racing Hurricane Cast 17x7 18.5
+HP Racing Lightning Cast 17x7 19.8
+HP Racing Shadow Cast 18x8 25.0
+HP Racing Vortex Cast 18x7.5 25.8
+HRE 445 Forged/Spun 18x10 25.8
+HRE 447 Forged/Spun 18x10 25.3
+HRE 504 Forged/Spun 18x7.5 16.5
+HRE 504 Forged/Spun 17x9.5 18.0
+HRE 504 Forged/Spun 17x11 19.5
+HRE 535 Forged/Spun 17x10 22.0
+HRE 540 Forged/Spun 17x8.5 23.0
+HRE 540 Forged/Spun 17x10 24.0
+HRE 540 Forged/Spun 18x10 26.0
+HRE 545 Forged/Spun 17x10 25.0
+HRE 545 Forged/Spun 18x10 27.0
+HRE 546 Forged/Spun 18x8.5 20.0
+HRE 546 Forged/Spun 20x9 27.0
+HRE 547 Forged/Spun 17x10 23.0
+HRE 547 Forged/Spun 18x10 25.0
+HRE 835 Forged/Spun 17x10 18.0
+IFG A5 Forged 17x8 18.5
+IFG A5 Forged 17x9 20.0
+Import Development Forged 19x8 19.5
+Import Development Forged 19x8.5 20.0
+Import Development Forged 19x10 21.0
+Impul NS-01R Forged 17x7.5 14.5
+InterMilano RG6 Cast 15x6.5 12.0
+InterMilano RG6 Cast 16x7 16.5
+J's Racing PR 6 Forged-Mg 17x7.5 13.2
+J's Racing PR 6 Forged-Mg 17x8.5 13.6
+Jax Light Cast 15x6.5 12.9
+Joustmeister Forged 17x7 13.0
+Katana Belajeo Cast 18x7.5 26.0
+Katana Berlini Cast 18x8 26.7
+Katana Concept Six Cast 18x7.5 24.0
+Katana Ducati Cast 18x7.5 25.0
+Keizer (racing only) Cast 13x8 7.8
+Kid's Racing Cast 14x6 9.7
+Kid's Racing Cast 15x6.5 10.6
+Kinesis K20 Forged/Spun 17x10 20.0
+Kinesis K20 Forged/Spun 17x9 19.5
+Kinesis K28 Forged/Spun 18x8.5 21.5
+Kinesis K28 Forged/Spun 18x9.5 22.5
+Kinesis K5 Forged/Spun 17x8.5 17.0
+Kinesis K5 Forged/Spun 17x10 18.0
+Kinesis K58 Forged/Spun 18x10 24.0
+Kinesis K58 Forged/Spun 18x8 23.0
+Kinesis Supercup Forged/Spun 17x10 22.0
+KMC Alf Cast 17x7 26.0
+KMC Gear Cast 17x7 24.5
+KMC Street Rebel Spyder Cast 17x7 21.0
+KMC Suicide 320 Cast 18x7 20.6
+KMC Tarantula Cast 17x7 23.5
+KMC Wizdom Cast 18x7 24.0
+Konig Absolute Cast 18x7.5 22.8
+Konig Antarres Cast 13x6 15.5
+Konig Antarres Cast 16x7.5 21.0
+Konig Arrive Cast 20x8.5 36.3
+Konig Blatant Cast 18x8 22.6
+Konig Burner Cast 15x7 16.0
+Konig Burner Cast 16x7 17.2
+Konig Caffeine Cast 15x6.5 16.5
+Konig Caffeine Cast 16x7 19.0
+Konig Caffeine Cast 17x7 19.9
+Konig Caffeine Cast 17x8 20.1
+Konig Caffeine Cast 18x7.5 21.9
+Konig Cobra Cast 15x6.5 16.0
+Konig Cobra Cast 16x7 19.5
+Konig Cobra Cast 17x7.5 22.0
+Konig Competition Cast 16x7 18.4
+Konig Diva Cast 13x5.5 12.5
+Konig Diva Cast 14x6 13.2
+Konig Diva Cast 15x6.5 15.8
+Konig Diva Cast 17x7.5 19.5
+Konig Diva Cast 18x7.5 22.0
+Konig Drift Cast 17x7 20.2
+Konig Drift Cast 18x8 22.0
+Konig DTM Cast 17x7.5 21.0
+Konig Elan Cast 16x7 18.0
+Konig Elan Cast 17x7 20.0
+Konig Elan Cast 18x8 21.0
+Konig Five-O Cast 16x8 19.2
+Konig Five-O Cast 17x8 20.1
+Konig Flatline Cast 15x6.5 17.9
+Konig Flatline Cast 16x7 19.8
+Konig Flatline Cast 17x7 21.1
+Konig Flatline Cast 18x7.5 22.6
+Konig Flight Cast 15x6.5 17.4
+Konig Flight Cast 16x7 18.4
+Konig Flight Cast 17x8 20.1
+Konig Flight Cast 17x9.5 27.3
+Konig Flight Cast 18x7.5 23.5
+Konig Flight Cast 18x8 24.9
+Konig Glide Cast 17x7 22.6
+Konig Greenlight Cast 15x6.5 15.4
+Konig GT-R Cast 15x6.5 16.0
+Konig GT-R Cast 16x7 17.5
+Konig GT-R Cast 17x7 19.5
+Konig Helium Cast 15x6.5 11.5
+Konig Imagine Cast 17x7 20.7
+Konig Imagine Cast 18x7.5 23.8
+Konig Imagine Cast 18x8.5 25.2
+Konig Impact Cast 17x7.5 21.0
+Konig Kilo Cast 15x6.5 11.5
+Konig LiveWire Cast 17x7 24.9
+Konig LiveWire Cast 18x7.5 26.2
+Konig Monsoon Cast 15x6.5 16.4
+Konig Monsoon Cast 16x7 19.5
+Konig Monsoon Cast 17x7 21.0
+Konig Monsoon Cast 17x8 22.6
+Konig Monsoon Cast 17x9.5 24.0
+Konig Monsoon Cast 18x7.5 26.0
+Konig MP3 Cast 17x7.5 23.4
+Konig MP3 Cast 18x7.5 24.9
+Konig Nrn Cast 16x8 18.4
+Konig Nrn Cast 17x8 21.0
+Konig Octane Cast 16x7 19.1
+Konig Prowler Cast 16x7 24.0
+Konig Rated-R Cast 14x6 14.5
+Konig Rated-R Cast 15x6.5 16.5
+Konig Rated-R Cast 16x7 17.5
+Konig Rated-R Cast 17x7 19.2
+Konig Rated-R Cast 18x7.5 21.5
+Konig Rhythym Cast 17x7 20.9
+Konig Rhythym Cast 18x7.5 22.5
+Konig Rush Cast 14x6 13.5
+Konig Rush Cast 15x6.5 17.7
+Konig Rush Cast 16x7 19.0
+Konig Rush Cast 17x7.5 22.8
+Konig Rush Cast 18x7.5 24.9
+Konig Rush Cast 19x8 26.5
+Konig SubZero Cast 15x6.5 12.9
+Konig SubZero Cast 17x7.5 16.9
+Konig Tantrum Cast 15x6.5 16.5
+Konig Tantrum Cast 16x7 17.9
+Konig Tantrum Cast 17x7 19.2
+Konig Tantrum Cast 17x8 22.9
+Konig Tantrum Cast 17x9 23.0
+Konig Tantrum Cast 18x7.5 23.2
+Konig Tantrum Cast 18x8 24.9
+Konig Tantrum Cast 18x9 25.3
+Konig Tantrum Cast 19x8 27.0
+Konig Tantrum 2 Cast/Spun 18x10 23.4
+Konig Temperr Cast 17x7.5 20.7
+Konig Temperr Cast 18x7.5 22.9
+Konig Tequila Cast 17x7 19.0
+Konig Toxxin Cast 17x7.5 18.6
+Konig Toxxin Cast 18x7.5 19.8
+Konig Traffik Cast 18x7.5 20.5
+Konig Tremor Cast 17x8.5 23.2
+Konig Tremor Cast 20x8.5 28.2
+Konig Tuner Cast 15x6.5 17.0
+Konig Tuner Cast 16x7 17.5
+Konig Tuner Cast 17x7 18.0
+Konig Verdict Cast 15x6.5 17.6
+Konig Verdict Cast 16x7 19.4
+Konig Verdict Cast 17x7 22.7
+Konig Verdict Cast 17x8 23.4
+Konig Verdict Cast 18x7.5 24.9
+Konig Verdict Cast 18x8 26.4
+Konig Verdict Cast 19x8 27.8
+Konig Villian Cast 15x6.5 14.5
+Konig Villian Cast 17x8 19.8
+Konig Villian Cast 17x9 22.3
+Konig Villian Cast 18x8 23.8
+Konig Villian Cast 18x9 26.5
+Konig Volume Cast 18x7.5 26.0
+Konig V-Racing Cast 16x7 18.0
+Konig Ziege Cast 15x6.5 17.2
+Konig Ziege Cast 16x7 18.7
+Konig Ziege Cast 17x7 20.2
+Konig Ziege Cast 18x7.5 22.9
+Kosei GK 11 Cast 15x6.5 14.0
+Kosei JGT Cast 18x7.5 24.0
+Kosei K1 Racing Cast 15x7 13.5
+Kosei K1 Racing Cast 15x8 14.5
+Kosei K1 Racing Cast 16x7.5 15.5
+Kosei K1 Racing Cast 16x8.5 16.2
+Kosei K1 Racing Cast 17x7.5 16.7
+Kosei K1 Racing Cast 17x8.5 16.7
+Kosei Racing Seneka Cast 15x6.5 15.0
+Kosei Racing Seneka Cast 16x7 19.0
+Kosei Racing Seneka Cast 17x7 21.5
+Kosei ROM Cast 18x7 24.5
+Kosei RT MAXi Cast 15x7 16.8
+Kosei RT MAXi Cast 17x7.5 19.0
+Kosei RT Penta Cast 15x7 13.8
+Kosei RT Penta Cast 18x7.5 18.5
+Kosei S5R Cast 16x8 23.0
+Kosei S5R Cast 17x7 22.0
+Kosei Seneka RG Cast 18x8 25.3
+Kosei Sniper Cast 16x7 18.9
+Kosei Sniper Cast 17x8 23.5
+Kosei Sniper Cast 18x9 25.0
+Kosoku Sports Turismo Cast 17x7 27.0
+Kronix Bio Hazard Cast 17x7.5 25.8
+Kronix Insignia 770 Cast 17x7.5 26.2
+Kyoho Tracer Cast 15x7 9.9
+Kyoho Tracer Cast 16x7 14.7
+Kyoho Tracer Cast 16x8 14.9
+Kyoho Tracer Cast 17x7 15.2
+Kyoho Tracer Cast 17x8 15.6
+Kyoho Tracer Cast 17x9 17.6
+Kyoho Tracer Cast 18x7.5 17.6
+Kyoho Tracer Cast 18x8.5 18.0
+Kyoho Tracer Cast 18x9.5 18.2
+Lada Cast-Mg 14x6 10.4
+Lenso VPD Cast 13x7.5 10.0
+Lenso VPD Cast 15x6.5 13.1
+Lenso VPD Cast 16x7 15.0
+Lenso VPD Cast 17x7 17.0
+Lexani Amethist Cast 17x7.5 29.0
+Lexani Iris 2009 Cast 18x8 27.5
+Lexani Krystal Cast 18x8 34.0
+Lexani Solar Cast 17x7.5 28.0
+Lexani Synergy Cast 18x8 30.8
+Lezaro Stiletto Cast 17x7.5 25.4
+LimiX Linea BE5-RSK Forged 18x7.5 16.8
+Lite Speed Billet/Spun 17x10 18.0
+LLTek Competition Cast 18x8 24.0
+Lowenhart BR-S Cast 20x9 29.3
+Lowenhart BS-5 Cast 18x8.5 29.0
+Lowenhart BS-D Cast 20x10 42.0
+Lowenhart LD-1 Cast 20x10 32.3
+Lowenhart LG-M Cast 18x8.5 26.0
+Lowenhart LH-5 Cast 18x8 28.0
+Mackin Gewalt Cast 17x10 23.0
+Mackin Gewalt Cast 17x7 22.0
+Madhi Caesar Cast 19x9 27.4
+Manaray SP Cast 17x10 24.0
+Manaray SP Cast 17x8.5 22.0
+MAS Axel Cast 18x8 25.0
+MAS Bi Turbo Look Cast 18x8 31.0
+MAS Madel Cast 17x8 29.0
+MAS Majestic Cast 18x8 26.5
+MAS MGR Cast 16x7.5 22.5
+MAS MGR Cast 18x7.5 26.0
+MAS MGR Cast 18x8 26.5
+MAS Roger Cast 17x7 22.0
+MAS Roger Cast 18x8 29.5
+MAS Sagitta Cast 18x8 24.3
+Maxxim Approach Cast 18x7.5 24.2
+Maxxim Def-Con 6 Cast 17x7 20.0
+Mazda Sports Forged 16x7 13.1
+Mazdaspeed MS-01 Forged-Mg 18x8.5 16.6
+Mazdaspeed MS-03 Cast 15x6.5 16.5
+MHT Driv Cast 17x7 27.5
+MHT Qwan Cast 18x8 27.0
+MHT V-10 Cast/Spun 18x7 25.0
+MHT V-10 Cast/Spun 20x8.5 30.5
+Mille Miglia A3 Cast 15x7 23.0
+Mille Miglia Action Cast 18x8 25.0
+Mille Miglia Action Sport Cast 18x8 23.0
+Mille Miglia Avia II Cast 18x8 25.0
+Mille Miglia C2T Cast 17x7.5 24.0
+Mille Miglia C2T Cast 17x9 26.0
+Mille Miglia Cello Cast 18x8 25.0
+Mille Miglia Cup 3S Cast 18x8 27.0
+Mille Miglia Emotion SSL Cast 18x8 27.0
+Mille Miglia Evo Cast 17x7 23.3
+Mille Miglia Evo Cast 18x8 27.0
+Mille Miglia HT3 Cast 17x8 24.0
+Mille Miglia MM 11 Sport Cast 17x8.5 22.0
+Mille Miglia MM 11-2 Cast 17x7 23.0
+Mille Miglia MM 11-2 Cast 18x8 25.0
+Mille Miglia Sfera Cast 16x7 21.8
+Mille Miglia Spider Cast 18x8 27.0
+Mille Miglia Uno Cast 18x8 28.4
+Millenium Kurbkrusher Cast 18x8 34.0
+Miller Motorworks RS-R Cast 18x8 28.0
+MiM 'ScoobySport' Cast 17x7 21.0
+MiM Venezia Cast 16x7.5 23.6
+MiM Vento Cast 15x7 19.0
+Minilite Competition Cast 13x7 13.0
+Minilite Magnesium Forged-Mg 14x6 10.0
+Minilite Magnesium Forged-Mg 15x7 10.5
+Minilite Sport Cast 14x6 14.0
+Minilite Sport Cast 15x6.5 16.0
+MK Sport Racer X Cast 17x7.5 26.0
+MK Sport Seducer Cast 19x9.5 34.0
+MK Sport Sleeper Cast 17x7.5 25.0
+MKW MK-5 Cast 17x7.5 27.5
+MKW MK-9 Cast 18x8 24.8
+Moda R1 Cast 17x8 24.0
+Moda R3 Cast 17x7 24.6
+Moda R3 Cast 18x8 27.0
+Moda R4 Cast 18x8 27.0
+Moda R6 Cast 18x8 28.6
+Modex Ks-Ce Forged 15x6.5 9.2
+Modex Ks-Ce Forged 17x7 13.0
+Modulo Euro Performance R5 Cast 17x7 21.0
+Modulo Euro Performance R5 Cast 17x8.5 22.3
+MOMO Arrow Cast 15x7 20.0
+MOMO Arrow Cast 16x7 23.0
+MOMO Arrow Cast 17x8 26.0
+MOMO GT2 Cast 17x8 26.0
+MOMO Racer Cast 17x8 27.3
+MOMO Racer Cast 18x8.5 35.5
+MOMO Sport Cast 16x7 23.0
+MOMO Sport Cast 17x8 26.0
+MOMO Superlight Forged 17x7 17.0
+Mondera Spyder Cast 18x7.5 26.4
+Monocoque RT Cast 17x10 20.0
+Monster Sport Type-R Forged 15x6.5 8.6
+Monster Sport Type-R Forged 16x7 12.9
+Motegi Racing MR12 Cast 15x7 17.5
+Motegi Racing MR12 Cast 16x7 19.0
+Motegi Racing MR12 Cast 17x7.5 22.5
+Motegi Racing MR12 Cast 18x7 27.5
+Motegi Racing MR15 Cast 16x7 19.5
+Motegi Racing MR15 Cast 17x7 23.0
+Motegi Racing MR15 Cast 18x7 26.5
+Motegi Racing MR4 Cast 17x7 22.4
+Motegi Racing MR5 Cast 16x7 19.0
+Motegi Racing MR5 Cast 17x7 24.5
+Motegi Racing MR5 Cast 18x7 29.0
+Motegi Racing MR7 Cast 15x6.5 16.5
+Motegi Racing MR7 Cast 16x7 20.0
+Motegi Racing MR7 Cast 17x7 24.5
+Motegi Racing MR7 Cast 18x7 27.5
+Motegi Racing MR8 Cast 16x7 16.5
+Motegi Racing MR8 Cast 17x7 22.5
+Motegi Racing MR8 Cast 18x7 26.5
+MRT Steel 13x7 17.0
+MRT Steel 15x7 23.0
+MRT Steel 15x8 24.0
+MRT Steel 15x10 26.0
+MRT Billet/Carbon Fiber 15x10 10.0
+MSD Millenium Cast 16x7 20.3
+MSW Type 45 Cast 15x7 20.0
+MSW Type 55 Cast 15x7 22.0
+Motoform Sekta Cast 17x7 30.0
+Motoform Talon Cast 17x7 30.0
+Myrtle Shoot Cast 17x8 33.0
+Mugen M12 (made by OZ Racing) Cast 17x7 20.0
+Mugen M7 Forged/Spun (Brittle) 15x6 13.0
+Mugen MF10 Forged 16x7 11.0
+Mugen MF10 Forged 17x7.5 14.0
+Mugen MF10 Forged 17x8.5 16.0
+Mugen MF10L Forged 15x6.5 10.5
+Mugen MF10L Forged 15x7 11.0
+Mugen MF8 Forged 16x7 12.0
+Mugen MR5 Forged/Spun 15x6 15.0
+Mugen MZ3x Cast 17x7 17.5
+Mugen RG Cast (soft) 15x6.5 10.5
+Mugen RG Cast 16x7 13.0
+Mugen RNR Cast (soft) 15x6.5 10.5
+MVR Magnum Cast 19x8.5 24.0
+Nakayama RS 6 Speed Cast 17x7 19.0
+Nakayama RS Mach 7 Cast 17x7 19.6
+Nakayama RS Phantom GT-R Cast 17x7 19.3
+Nakayama RS TS6 Cast 17x7 17.6
+NAR Type II Cast 14x6.5 10.4
+Niche Bella Cast 17x7 25.5
+Niche Bella Cast/Spun 19x8 30.0
+Niche E-tune Cast 17x8 25.0
+Niche Mecha Cast 18x7 25.0
+Niche Pultec Cast 18x7 25.5
+Niche Pultec Cast 20x8.5 33.8
+Niche Spitfire Cast 20x8.5 39.5
+Niche Throttle Cast 17x7.5 24.8
+Nippon Racing Advantispeed Cast 17x7 24.0
+Nippon Racing Evolution Cast 17x7 21.0
+Nippon Racing F2 Cast 15x6.5 12.0
+Nippon Racing Formula 1 Cast 17x7 20.8
+Nippon Racing Hyperspeed Cast 17x7 22.3
+Nippon Racing Indy Cup Cast 17x7 22.3
+Nippon Racing Intertouring Cup Cast 17x7 21.0
+Nippon Racing Sassy Cast 17x7 22.0
+Nippon Racing Scorpion Cast 17x7 21.2
+Nippon Racing Taiko Cast 17x7 22.4
+Nippon Racing Version 2 Cast 17x7 21.8
+Nippon Racing Version 5 Cast 17x7 22.8
+Nippon Racing Version 5 Cast 18x8 26.5
+Nippon Racing Wishbone Cast 17x7 23.0
+Nismo LM GT Magnesium Forged-Mg 18x10 17.1
+NZO 213 Cast 18x7.5 27.0
+NZO 214 Hyper Cast 18x7.5 28.0
+Oettinger RE Cast 18x8 24.8
+Oettinger RZ Cast 18x8 29.6
+Omni Concept GT Champion Cast 20x9.5 29.3
+OZ Antares Cast 18x8 25.0
+OZ Competition Cast 17x8.5 30.0
+OZ Crono EVO Cast 18x8 19.0
+OZ F1 Cup Cast 17x7 25.0
+OZ F1 Cup Cast 18x8 25.3
+OZ F1 Plus Cast 17x7.5 26.0
+OZ Mito Modular Cast 17x7 27.0
+OZ Prodrive P1 Cast 17x7 20.4
+OZ Racing F1 Cast 15x7 19.8
+OZ Salina Cast 18x8 28.0
+OZ Superleggera Cast 15x7 11.0
+OZ Superleggera Cast 17x7 15.2
+OZ Superleggera Cast 17x8 15.9
+OZ Superleggera Cast 18x8 17.6
+OZ Superleggera Forged 19x8 21.5
+OZ Superturismo Cast 16x7 17.6
+OZ Superturismo Cast 17x8 23.3
+OZ Superturismo Cast 18x8 26.0
+OZ Superturismo Evolution Cast 17x7 18.0
+OZ Vela Cast/Spun 18x8 24.5
+OZ Vela Cast/Spun 18x9 25.3
+OZ Volcano Cast 16x7 23.0
+OZ Volcano Cast 18x8 26.3
+Panasport C8 Cast/Spun 13x9 10.5
+Panasport FC Cast 14x6 14.0
+Panasport FC Cast 16x7 17.0
+Panasport FS Cast 13x6 10.0
+Panasport FS Cast 15x6 15.0
+Panasport FS Lite Cast 13x6 9.5
+Panasport FS Lite Cast 13x7 10.0
+Panasport Pro Rallye Cast 14x6 14.5
+Panasport ULW Cast 13x6 13.5
+Panasport ULW Cast 15x7 16.0
+Panasport ULW Cast 16x7 17.0
+Panther EMR151 Cast 16x7.5 20.8
+Panther EMR175 Cast 17x7 24.5
+Panther EMR200 Cast 17x7 22.3
+Panther EMR219 Cast 18x7.5 21.6
+Panther EMR220 Cast 18x7 25.0
+Paradyme F206 Cast 17x7.5 23.0
+Paradyme F220 Cast 18x7.5 25.8
+Paulsen Racing 13x5.5 17.0
+PCW Panther Cast 17x7.5 23.0
+PCW Panther Cast 18x8 29.3
+Performance Industries (race only) 13x7 15.0
+Performance Specialties Superlite Cast 13x6 13.0
+Platinum FX-2 Cast 18x7 25.0
+Platinum Koge Cast 17x7 24.5
+Platinum Krees (Type 143) Cast 20x8.5 35.0
+Platinum Stinger (Type 141) Cast 20x8.5 41.0
+Polo Monarch Cast 20x8.5 39.0
+Polo Tornado Cast 17x7.5 33.0
+Polo Warlock Cast 17x7.5 35.0
+Power Racing VS-01 Cast 17x7 19.5
+Power Racing VS-01 Cast 18x7.5 20.5
+Power Racing VS-04 Cast 15x6.5 12.3
+Power Racing VS-04 Cast 16x7 14.3
+Power Racing VS-04 Cast 17x7 16.5
+Power Racing VS-05 Cast 17x7 22.5
+Primax 618 Tuner Cast 17x7 22.5
+ProDrive GC-07C Forged 17x7.5 15.2
+ProDrive P1 Cast 18x7.5 23.4
+ProDrive P7 Cast 17x7 22.4
+Progressive Pro 293 Cast 16x7 24.0
+PS Engineering Halibrand Replicas Cast 15x7 16.0
+PS Engineering TA II Cast 15x7 16.0
+Quantum Tek S-05 Cast 17x7.5 25.3
+Quantum Tek S-05 Cast 18x7.5 29.3
+Quantum Tek S-06 Cast 17x7.5 26.0
+Quantum Tek S-07 Cast 18x7.5 28.5
+Quantum Tek S-08 Cast 16x7 24.0
+Quantum Tek S-10 Cast 15x7 18.5
+Quantum Tek S-10 Cast 18x7.5 24.3
+Quantum Tek S-11 Cast 16x7 19.5
+Quantum Tek S-13 Cast 18x7.5 27.0
+Quantum Tek S-14 Cast 18x7.5 22.0
+Quantum Tek S-15 Cast 18x7.5 21.4
+Raceline RL-7 Cast 15x7 19.8
+Racing Dynamics Pro Race 1 Cast 15x7 13.2
+Racing Dynamics RGQ Cast 19x9.5 29.5
+Racing Dynamics RGS Cast 17x8 27.0
+Racing Dynamics RS-2 Cast 19x10 25.5
+Racing Dynamics RS-2 Cast 19x8 24.0
+Racing Firrenze RF-Pro Forged 15x6.5 9.8
+Racing Gear RG-6 Cast 15x6.5 12.0
+Racing Gear RG-6 Cast 16x7 16.0
+Racing Hart C2 Cast 18x8.5 21.5
+Racing Hart C5 Cast 18x8.5 28.0
+Racing Hart CP-035R SSF 15x6 7.9
+Racing Hart CP-035R SSF 15x6.5 8.6
+Racing Hart CP-035R SSF 15x7 9.4
+Racing Hart CP-035R SSF 16x7 10.8
+Racing Hart CP-035R SSF 16x7.5 11.2
+Racing Hart CP-035R SSF 16x8 11.5
+Racing Hart CP-035R SSF 17x7.5 13.0
+Racing Hart CP-035R SSF 17x8 13.6
+Racing Hart CP-035R SSF 17x8.5 14.4
+Racing Hart CP-035R SSF 17x9 15.0
+Racing Hart CP-035R SSF 17x9.5 15.2
+Racing Hart CP-035R SSF 18x7.5 19.7
+Racing Hart CP-035R SSF 18x8.5 20.2
+Racing Hart CP10 SSF 18x8 18.0
+Racing Hart CP8 SSF 17x7 17.0
+Racing Hart CP-F SSF 15x6.5 10.5
+Racing Hart Evolution Cast 18x7.5 20.8
+Racing Hart Evolution S7 EVO Cast 18x7.5 22.2
+Racing Hart Evolution Z5000 Cast 19x7.5 23.3
+Racing Hart Hyper Tuner Cast 16x7 17.0
+Racing Hart M5 Cast 19x10 28.5
+Racing Hart M6 Cast 18x7.5 26.3
+Racing Hart Tracer Cast 17x10 18.0
+Racing Hart Tuner Cast 15x6.5 15.0
+Racing Hart TypeC Cast 17x9.5 21.0
+Racing Sparco Cromodora Cast 16x7 20.5
+Racing Sparco NS-II Python Cast 17x7 22.0
+Racing Sparco NT Cast 18x8 26.0
+Racing Sparco NT-R Cast 17x7 15.4
+Racing Sparco NT-R Cast 17x8 16.7
+Racing Sparco NT-R Cast 17x9 17.2
+Racing Sparco Viper R (Japan Only) Forged/Spun 15x6.5 9.0
+Racing Sparco Viper R (Japan Only) Forged/Spun 16x7 11.2
+Racing Sparco Viper R (Japan Only) Forged/Spun 17x7 13.7
+Racing Sparco Viper R (Japan Only) Forged/Spun 18x8.5 16.3
+Rage Racing 10 Cast 15x6.5 16.0
+Rage Racing Motif Cast 17x7 19.8
+Rage Racing Split Cast 17x7 21.8
+Rage Racing Vigor Cast 16x7 17.8
+Rage Racing Vulcan Cast 18x8 26.5
+Raptor Racing GX-T Cast 17x7 24.0
+Raptor Racing MZ-1 Cast 17x7 25.6
+RD Sport C4 Cast 19x8.5 24.8
+RD Sport RS-4 Cast 19x9.5 27.5
+RD Sport S4 Cast 19x10 27.3
+Real Racing Cast 13x7 10.4
+Real Racing Cast 15x7 12.7
+Real Racing R-5 Cast 17x7 18.0
+Revolution 'ScoobySport' Cast-Mg 17x7 18.7
+Revolution Classic 4-Spoke Race * Cast 13x5.5 8.8
+Revolution Classic 4-Spoke Race * Cast 13x7 9.4
+Revolution Classic 4-Spoke Road * Cast 13x6 11.0
+Revolution Classic 5-Spoke Race * Cast 15x7 18.1
+Revolution Classic 5-Spoke Race * Cast 15x8 16.0
+Revolution Classic 5-Spoke Road * Cast 15x7 16.8
+Revolution RFX Race * Cast 13x6 11.5
+Revolution RFX Race * Cast 14x6 11.8
+Revolution RFX Race * Cast 14x7 12.5
+Revolution RFX Race * Cast 15x7 15.3
+Revolution RFX Race * Cast 16x7 17.8
+Revolution RFX Rally * Cast 15x6 18.3
+Revolution RFX Rally * Cast 15x7 18.8
+Revolution RFX Road * Cast 16x7 20.3
+Revolution RZX Race * Cast 17x7 18.3
+Revolution RZX Rally * Cast 17x7 22.5
+Revolution RZX Road * Cast 17x7.5 22.5
+Rial MS Cast 15x7 17.2
+Rial Viper D70 Cast 15x7 17.0
+Rial Viper D70 Cast 17x7.5 26.5
+Riverside Trafficstar DTM Cast 19x9 27.8
+Riverside Trafficstar DTS Cast 19x10 28.4
+ROH Adrenaline Cast 17x7 23.1
+ROH Adrenaline Cast 17x8 24.2
+ROH Adrenaline Cast 18x7 25.6
+ROH Astron Cast 17x7.5 23.3
+ROH Azzurro Cast 18x8 28.5
+ROH Blade Cast 17x7 25.0
+ROH Illusion Cast 16x7 25.0
+ROH Reflex Cast 16x7 15.5
+ROH Reflex Cast 17x7.5 23.5
+ROH Snyper Cast 15x7 15.0
+Ro-Ja Formula 5 Forged 17x7 14.5
+Ro-Ja Formula 5 Forged 18x7 18.0
+Ro-Ja Formula 5 Forged 18x8 19.0
+Ro-Ja Formula 5 Forged 18x9 20.0
+Ro-Ja Formula 5 Forged 19x8 22.0
+Ro-Ja Formula 5 Forged 19x9 24.0
+Ro-Ja GT-M Cast 18x8 27.0
+Ro-Ja Kruzz Cast 19x8 26.2
+Ro-Ja Neo5 Cast 19x8 26.2
+Ronal ACT Cast 17x9.5 22.0
+Ronal Bear Cast 14x6 18.3
+Ronal LS Cast 15x7.5 16.7
+Ronal LV (Spider) Cast 15x7 15.9
+Ronal LV (Spider) Cast 16x7.5 18.2
+Ronal LV (Spider) Cast 17x8 21.4
+Ronal LV (Spider) Cast 18x8.5 24.3
+Ronal LW Cast 14x6 17.3
+Ronal LW Cast 15x7.5 19.0
+Ronal LZ (Eleganz) Cast 18x8.5 30.3
+Ronal R-10 (Turbo) Cast 15x7 18.0
+Ronal R-1001 Cast 17x8 22.5
+Ronal R-23 Cast 14x6 14.8
+Ronal R-23 Cast 15x7 17.3
+Ronal R-25 Cast 14x6 14.8
+Ronal R-25 Cast 15x7 17.3
+Ronal R-25 Cast 16x7.5 18.5
+Ronal R-25 Cast 17x8 23.5
+Ronal R-26 Cast 14x6 16.4
+Ronal R-26 Cast 15x7 17.3
+Ronal R-26 Cast 16x7.5 20.3
+Ronal R-28 (Joker) Cast 14x6 16.4
+Ronal R-28 (Joker) Cast 15x7 18.9
+Ronal R-28 (Joker) Cast 16x7.5 24.1
+Ronal R-28 (Joker) Cast 17x8.5 28.2
+Ronal R-31 Cast 16x7 21.5
+Ronal R-34 Cast 16x7.5 20.9
+Ronal R-7 (Bulldog) Cast 17x7 25.0
+Ronal R-7 (Bulldog) Cast 18x8 27.8
+Ronal RT (Twin) Cast 17x7.5 24.5
+Ronal SL Cast 17x7.5 21.1
+Ronal T-34 Cast 16x7.5 21.0
+Rota Attack Cast 15x6.5 10.0
+Rota Attack Cast 17x7 15.5
+Rota Aztec Cast 15x6.5 16.4
+Rota Aztec Cast 16x7 19.0
+Rota Battle Cast 17x7.5 18.0
+Rota Circuit 8 Cast 15x6.5 12.0
+Rota Circuit 8 Cast 16x7 15.5
+Rota Competition Cast 15x6.5 16.8
+Rota Competition Cast 16x7 19.6
+Rota Formel Cast 16x7 17.7
+Rota Grid Racing Cast 15x6.5 14.5
+Rota Grid Racing Cast 16x7 16.0
+Rota Manta Cast 15x6.5 16.5
+Rota Manta Cast 16x7 17.6
+Rota MSR Cast 15x6.5 16.9
+Rota MSR Cast 16x7 17.2
+Rota N1R Cast 16x7 17.7
+Rota Retro Cast 15x6.5 14.0
+Rota Slipstream Cast 15x6.5 11.9
+Rota Slipstream Cast 16x7 14.5
+Rota Stage 5 Cast 15x6.5 17.6
+Rota Stage 5 Cast 16x7 20.1
+Rota Subzero Cast 15x6.5 12.9
+Rota Subzero Cast 16x7 14.5
+Rota Subzero Cast 17x7 16.5
+Rota Subzero Cast 17x7.5 16.9
+Rota Tarmac Cast 17x7 19.0
+Rota Tuner Cast 16x7 18.0
+Rota Velo Cast 15x6.5 16.8
+Rota Velo Cast 16x7 19.6
+Rozest MF-02 Forged 17x7 13.7
+RS Limited Ricochet Cast 17x7 19.4
+RS Limited S-Type Cast 18x7.5 28.0
+RS Watanabe Forged-Mg 19x8 16.5
+RS Watanabe Cyclone Forged-Mg 15x6.5 10.1
+RS Watanabe Cyclone Forged-Mg 15x7 10.4
+RS Watanabe Cyclone Forged-Mg 16x7 11.5
+RS Watanabe Cyclone Forged-Mg 16x8 12.3
+RS Watanabe Cyclone Forged-Mg 18x8 14.6
+RS Watanabe Cyclone Forged-Mg 18x9 16.1
+RS Watanabe EightSpoke A Cast-Mg 10x6 5.1
+RS Watanabe EightSpoke A Cast 10x6 7.3
+RS Watanabe EightSpoke A Cast 12x5.5 8.8
+RS Watanabe EightSpoke A Cast-Mg 12x6 6.8
+RS Watanabe EightSpoke A Cast 12x6 9.7
+RS Watanabe EightSpoke A Cast 13x6 11.2
+RS Watanabe EightSpoke A Cast 13x6.5 11.0
+RS Watanabe EightSpoke A Cast 13x7 11.0
+RS Watanabe EightSpoke A Cast-Mg 14x6 9.0
+RS Watanabe EightSpoke A Cast 14x6 13.0
+RS Watanabe EightSpoke A Cast-Mg 14x6.5 9.3
+RS Watanabe EightSpoke A Cast 14x6.5 13.2
+RS Watanabe EightSpoke A Cast-Mg 14x7 9.0
+RS Watanabe EightSpoke A Cast 14x7 12.8
+RS Watanabe EightSpoke A Cast-Mg 14x7.5 9.9
+RS Watanabe EightSpoke A Cast 14x7.5 13.6
+RS Watanabe EightSpoke B Cast-Mg 13x5 8.8
+RS Watanabe EightSpoke B Cast 13x5 9.7
+RS Watanabe EightSpoke B Cast-Mg 13x5.5 9.3
+RS Watanabe EightSpoke B Cast 13x5.5 10.4
+RS Watanabe EightSpoke B Cast-Mg 13x6 7.1
+RS Watanabe EightSpoke B Cast 13x6 10.1
+RS Watanabe EightSpoke B Cast-Mg 13x6.5 7.7
+RS Watanabe EightSpoke B Cast 13x6.5 11.0
+RS Watanabe EightSpoke B Cast 13x7 11.2
+RS Watanabe EightSpoke B Cast 13x7.5 10.7
+RS Watanabe EightSpoke B Cast-Mg 14x5.5 8.2
+RS Watanabe EightSpoke B Cast 14x5.5 11.7
+RS Watanabe EightSpoke B Cast-Mg 14x6 8.4
+RS Watanabe EightSpoke B Cast 14x6 12.1
+RS Watanabe EightSpoke B Cast-Mg 14x6.5 8.4
+RS Watanabe EightSpoke B Cast 14x6.5 12.1
+RS Watanabe EightSpoke B Cast-Mg 14x7 8.6
+RS Watanabe EightSpoke B Cast 14x7 12.3
+RS Watanabe EightSpoke B Cast-Mg 14x7.5 9.5
+RS Watanabe EightSpoke B Cast 14x7.5 12.5
+RS Watanabe EightSpoke CVF Cast 13x5 9.7
+RS Watanabe EightSpoke CVF Cast 13x5.5 9.9
+RS Watanabe EightSpoke CVF Cast 13x6 11.2
+RS Watanabe EightSpoke CVFP Cast 13x5 10.1
+RS Watanabe EightSpoke CVFP Cast 13x5.5 10.4
+RS Watanabe EightSpoke CVP Cast 13x5 10.4
+RS Watanabe EightSpoke F8 Cast 12x5 9.0
+RS Watanabe EightSpoke F8 Cast-Mg 14x6 7.9
+RS Watanabe EightSpoke F8 Cast 14x6 11.2
+RS Watanabe EightSpoke F8 Cast-Mg 14x6.5 8.4
+RS Watanabe EightSpoke F8 Cast 14x6.5 12.1
+RS Watanabe EightSpoke F8 Cast-Mg 14x7 9.9
+RS Watanabe EightSpoke F8 Cast 14x7 14.1
+RS Watanabe EightSpoke F8 Cast-Mg 15x6 10.6
+RS Watanabe EightSpoke F8 Cast-Mg 15x6.5 9.5
+RS Watanabe EightSpoke F8 Cast-Mg 15x7 10.1
+RS Watanabe EightSpoke F8 Cast-Mg 15x7.5 11.0
+RS Watanabe EightSpoke F8 Cast-Mg 16x8 13.0
+RS Watanabe EightSpoke F8F Cast 12x4.5 9.0
+RS Watanabe EightSpoke F8F Cast 13x4.5 10.4
+RS Watanabe EightSpoke F8F Cast 14x5.5 14.1
+RS Watanabe EightSpoke F8F Cast-Mg 14x6 9.9
+RS Watanabe EightSpoke F8F Cast 14x6.5 12.5
+RS Watanabe EightSpoke F8F Cast-Mg 15x6 10.1
+RS Watanabe EightSpoke F8F Cast 15x6 15.0
+RS Watanabe EightSpoke F8F Cast-Mg 15x6.5 10.4
+RS Watanabe EightSpoke F8F Cast 15x6.5 13.7
+RS Watanabe EightSpoke F8F Cast-Mg 15x7 11.2
+RS Watanabe EightSpoke F8F Cast 15x7 14.6
+RS Watanabe EightSpoke F8F Cast 15x7.5 15.9
+RS Watanabe EightSpoke F8F Cast 15x8 16.1
+RS Watanabe EightSpoke F8F Cast 15x8.5 20.0
+RS Watanabe EightSpoke F8F Cast 16x7 16.1
+RS Watanabe EightSpoke F8F Cast 16x7.5 17.2
+RS Watanabe EightSpoke F8F Cast 16x8 18.1
+RS Watanabe EightSpoke F8F Cast 16x9 20.5
+RS Watanabe EightSpoke F8FR (Rally) Cast 15x6.5 17.3
+RS Watanabe EightSpoke F8FS Cast 14x6 13.0
+RS Watanabe EightSpoke F8FS Cast 14x6.5 13.7
+RS Watanabe EightSpoke F8FS Cast-Mg 15x6 9.9
+RS Watanabe EightSpoke F8FS Cast 15x6 14.6
+RS Watanabe EightSpoke F8FS Cast 15x6.5 15.2
+RS Watanabe EightSpoke F8FS Cast-Mg 15x7 11.7
+RS Watanabe EightSpoke F8FS Cast 15x7 16.5
+RS Watanabe EightSpoke F8FS Cast 16x6.5 17.2
+RS Watanabe EightSpoke F8FS Cast 16x7 18.1
+RS Watanabe EightSpoke F8FS Cast 16x7.5 18.5
+RS Watanabe EightSpoke F8FS Cast 16x8 19.2
+RS Watanabe EightSpoke F8FS Cast 16x8.5 19.8
+RS Watanabe EightSpoke F8FT Cast 14x6 12.6
+RS Watanabe EightSpoke F8FT Cast 14x6.5 13.2
+RS Watanabe EightSpoke F8FT Cast 16x6.5 16.3
+RS Watanabe EightSpoke F8FT Cast 16x7 17.2
+RS Watanabe EightSpoke F8FT Cast 16x7.5 17.6
+RS Watanabe EightSpoke F8FT Cast 16x8 18.3
+RS Watanabe EightSpoke F8-RST Cast-Mg 15x6.5 9.9
+RS Watanabe EightSpoke F8-RST Cast 15x6.5 14.1
+RS Watanabe EightSpoke F8S Cast-Mg 14x6 9.0
+RS Watanabe EightSpoke F8S Cast-Mg 14x6.5 9.5
+RS Watanabe EightSpoke F8S Cast 16x7 16.5
+RS Watanabe EightSpoke F8S Cast 16x7.5 17.6
+RS Watanabe EightSpoke F8S Cast-Mg 16x8 13.2
+RS Watanabe EightSpoke F8S Cast 16x8 18.5
+RS Watanabe EightSpoke F8S Cast 16x9 20.9
+RS Watanabe EightSpoke F8T Cast-Mg 14x6 8.8
+RS Watanabe EightSpoke F8T Cast-Mg 14x6.5 9.3
+RS Watanabe EightSpoke F8T Cast 16x7 15.7
+RS Watanabe EightSpoke F8T Cast 16x7.5 16.8
+RS Watanabe EightSpoke F8T Cast-Mg 16x8 12.6
+RS Watanabe EightSpoke F8T Cast 16x8 17.6
+RS Watanabe EightSpoke F8T Cast 16x8.5 20.8
+RS Watanabe EightSpoke F8T Cast 16x9 20.3
+RS Watanabe EightSpoke R Type Cast 13x8 14.6
+RS Watanabe EightSpoke R Type Cast 13x8.5 14.6
+RS Watanabe EightSpoke R Type Cast 13x9 14.6
+RS Watanabe EightSpoke R Type Cast 13x9.5 15.2
+RS Watanabe EightSpoke R Type Cast 13x10 16.2
+RS Watanabe EightSpoke R Type Cast-Mg 14x8 10.6
+RS Watanabe EightSpoke R Type Cast 14x8 15.0
+RS Watanabe EightSpoke R Type Cast-Mg 14x8.5 10.6
+RS Watanabe EightSpoke R Type Cast 14x8.5 15.2
+RS Watanabe EightSpoke R Type Cast-Mg 14x9 10.8
+RS Watanabe EightSpoke R Type Cast 14x9 15.4
+RS Watanabe EightSpoke R Type Cast-Mg 14x9.5 11.0
+RS Watanabe EightSpoke R Type Cast 14x9.5 15.7
+RS Watanabe EightSpoke R Type Cast-Mg 14x10 11.0
+RS Watanabe EightSpoke R Type Cast 14x10 15.9
+RS Watanabe EightSpoke R Type Cast-Mg 14x10.5 11.2
+RS Watanabe EightSpoke R Type Cast 14x10.5 16.1
+RS Watanabe EightSpoke R Type Cast-Mg 14x11 11.5
+RS Watanabe EightSpoke R Type Cast 14x11 16.3
+RS Watanabe EightSpoke R Type Cast-Mg 14x11.5 11.7
+RS Watanabe EightSpoke R Type Cast 14x11.5 16.5
+RS Watanabe EightSpoke R Type Cast-Mg 14x12 11.7
+RS Watanabe EightSpoke R Type Cast 14x12 16.8
+RS Watanabe EightSpoke R Type Cast 15x8 15.4
+RS Watanabe EightSpoke R Type Cast-Mg 15x8.5 11.0
+RS Watanabe EightSpoke R Type Cast 15x8.5 15.9
+RS Watanabe EightSpoke R Type Cast-Mg 15x9 11.5
+RS Watanabe EightSpoke R Type Cast 15x9 16.3
+RS Watanabe EightSpoke R Type Cast-Mg 15x9.5 11.7
+RS Watanabe EightSpoke R Type Cast 15x9.5 16.8
+RS Watanabe EightSpoke R Type Cast-Mg 15x10 12.1
+RS Watanabe EightSpoke R Type Cast 15x10 17.2
+RS Watanabe EightSpoke R Type Cast-Mg 15x10.5 12.3
+RS Watanabe EightSpoke R Type Cast 15x10.5 17.6
+RS Watanabe EightSpoke R Type Cast-Mg 15x11 12.6
+RS Watanabe EightSpoke R Type Cast 15x11 18.1
+RS Watanabe EightSpoke R Type Cast-Mg 15x11.5 13.0
+RS Watanabe EightSpoke R Type Cast 15x11.5 18.5
+RS Watanabe EightSpoke R Type Cast-Mg 15x12 13.2
+RS Watanabe EightSpoke R Type Cast 15x12 19.0
+RS Watanabe EightSpoke R Type Cast 16x8 16.5
+RS Watanabe EightSpoke R Type Cast 16x8.5 17.2
+RS Watanabe EightSpoke R Type Cast 16x9 17.9
+RS Watanabe EightSpoke R Type Cast 16x9.5 18.5
+RS Watanabe SMW Cast-Mg 14x5 8.6
+RS Watanabe SMW Cast-Mg 14x5.5 9.0
+RS Watanabe SMW Cast-Mg 14x6 8.6
+RS Watanabe Forged Eight Forged 15x6.5 11.5
+RS Watanabe Forged Eight Forged 15x7 12.1
+Ruf Cast 17x9 24.6
+Ruf Cast 17x10 27.7
+Shaper Sunlight Cast 16x7.5 17.2
+Shaper Twilight Cast 16x7.5 18.3
+Shaper Twilight Cast 17x7.5 21.8
+Simmons F-Series Cast 17x10 23.8
+Simmons OM-Series Cast 18x9 26.5
+Smith's Wheels Highlander Cast 18x9 28.0
+Smith's Wheels Infinity Cast 17x7 23.0
+Smith's Wheels Twister Cast 18x8 29.5
+Sparco Cromodora Cast 16x7 20.5
+Speed Star Zxpeed Cast 18x8 27.0
+Speedline Competition Cast 18x8.5 24.0
+Speedline Prodrive 7 Cast 17x7 22.5
+Speedline Race Cast 17x10 19.0
+Speedline Routa/GT1 Lite Cast 18x7.5 18.5
+Speedline Street Cast 17x10 25.0
+SpeedLite Racing Formula Cast 17x7 21.5
+Speedy Wheels Atix-5 Cast 17x7 18.0
+Speedy Wheels Baltic Cast 17x7.5 22.3
+Speedy Wheels G-Force Cast 20x8.5 35.3
+Speedy Wheels Longchamp Cast 18x7.5 27.4
+Speedy Wheels Nexxus Cast 18x7.5 25.3
+Speedy Wheels Octopus Cast 17x7 18.8
+Speedy Wheels Race Mode Cast 15x6.5 13.2
+Speedy Wheels Race Mode Cast 16x7 16.1
+Speedy Wheels Race Mode Cast 17x7 17.6
+Speedy Wheels Sports-R Cast 15x6.5 13.9
+Speedy Wheels Toskana Cast 17x7 24.0
+Spoon Sports SW388 Forged 15x6.5 8.6
+Spoon Sports Forged 16x7 11.9
+Spoon Sports Forged 16x8 12.9
+Sport Edition Fox 2 Cast 17x7 21.6
+Sport Edition Fox 2 Cast 18x7.5 23.0
+Sport Edition Fox 5 Cast 18x8 23.0
+Sport Edition Tekno Cast 18x8 23.0
+Sport Edition Tekno Cast 19x8 31.4
+Sportiva Liberty Cast 19x8 31.0
+Sportiva Modena Cast 18x8.5 26.0
+SSR Agle Strusse SSF/Spun 19x12 32.0
+SSR De Colte SSF 17x9 19.8
+SSR GP-Theta SSF 16x8 19.0
+SSR GT1 SSF 16x7 15.0
+SSR GT1 SSF 17x7 16.5
+SSR GT1 SSF 17x7.5 17.5
+SSR GT1 SSF 17x8 17.8
+SSR GT1 SSF 17x9 18.3
+SSR GT1 SSF 18x7.5 17.8
+SSR GT1 SSF 18x8 19.0
+SSR GT1 SSF 18x9 19.7
+SSR GT3 SSF/Spun 18x8 24.6
+SSR Integral SSF 16x7 15.5
+SSR Integral SSF 16x8 16.9
+SSR Integral SSF 17x7 17.0
+SSR Integral SSF 17x8 18.0
+SSR Integral SSF 17x9 18.8
+SSR Integral SSF 18x8 20.0
+SSR Integral SSF 18x9 20.0
+SSR MK-III SSF/Spun 15x7 12.2
+SSR RF Firrenze SSF/Spun 16x8 18.5
+SSR S1 SSF 17x7 16.8
+SSR Schumacher SSF/Spun 15x7 12.5
+SSR Schumacher SSF/Spun 16x7 15.0
+SSR Type-C (called Competitions in the US) SSF 15x6 8.0
+SSR Type-C (called Competitions in the US) SSF 15x6.5 8.6
+SSR Type-C (called Competitions in the US) SSF 15x7 9.2
+SSR Type-C (called Competitions in the US) SSF 15x7.5 9.6
+SSR Type-C (called Competitions in the US) SSF 16x7 11.0
+SSR Type-C (called Competitions in the US) SSF 16x8 12.1
+SSR Type-C (called Competitions in the US) SSF 17x7.5 13.0
+SSR Type-C (called Competitions in the US) SSF 17x8 14.3
+SSR Type-C (called Competitions in the US) SSF 17x8.5 15.3
+SSR Type-C (called Competitions in the US) SSF 17x9 15.6
+SSR Type-C (called Competitions in the US) SSF 17x9.5 15.6
+SSR Type-C (called Competitions in the US) SSF 18x7.5 14.5
+SSR Type-C (called Competitions in the US) SSF 18x8 15.0
+SSR Type-C (called Competitions in the US) SSF 18x9 17.0
+SSR Type-C (called Competitions in the US) SSF 18x9.5 17.7
+SSR Type-M SSF 15x6.5 11.0
+SSR Type-R SSF 16x7 11.5
+SSR Type-V SSF 16x7 13.0
+SSR Type-X SSF 15x6.5 10.5
+SSR Vienna SSF/Spun 18x8.5 22.3
+Starform Basel Cast 17x7 21.6
+Starform Basel Cast 17x8 24.3
+Starform Real Racing Model II Forged 17x7.5 13.4
+Starform Real Racing Model II Forged 17x8.5 14.1
+Starform Real Racing Model II Forged 17x9.5 15.0
+Starform Real Racing R2 Forged 15x6.5 9.7
+Starform Real Racing R2 Forged 15x7 9.9
+Starform Real Racing R2 Forged 17x7.5 14.1
+Starform Real Racing R2 Forged 17x8.5 14.8
+Starform Real Racing R2 Forged 17x9.5 15.7
+Stark MS Forged 14x5 7.3
+Stark MS Forged 15x6 9.5
+Stark MS Forged 15x6.5 10.1
+Stark MS Forged 17x7.5 14.6
+Stern Aguzze-S07 Cast 15x7 13.4
+Stern Aguzze-S07 Cast 16x7 14.8
+Stern Aguzze-S07 Cast 16x8 16.1
+Stern Aguzze-S07R Forged 17x7 14.3
+Stern Aguzze-S07R Forged 17x7.5 14.0
+Stern Aguzze-S07R Forged 17x8 14.0
+Stern Aguzze-S07R Forged 17x9 15.3
+Stern Aguzze-S07R Forged 18x7.5 16.5
+Stern Aguzze-S07R Forged 18x8.5 16.5
+Stern Aguzze-S07R Forged 18x9.5 16.8
+Stern Axia Cast 19x9.5 31.0
+Stern Intertouring Cast 17x8 23.5
+Stern Leacher Cast 17x7 23.5
+Stern Mach III Cast 15x7 13.5
+Stern Mach III Cast 16x7 14.5
+Stern Mach III Forged 17x7.5 14.0
+Stern Sports Line LIIva Forged/Spun 17x7 21.5
+Sti RS-Zero Forged 17x7.5 15.7
+Stillen GTV Cast 17x9 22.5
+Stillen GTV Cast 18x8 21.6
+STR RS16 Cast 17x7 20.8
+STR RS17 Cast 17x7 19.5
+Superlight 3-Piece Ultralight Cast 15x6.5 14.3
+Superlight ML Cast 13x5.5 12.8
+Superlight ML Cast 13x7 13.2
+Superlight ML Cast 13x8 13.9
+Superlight ML Cast 14x6 15.0
+Superlite Japan 2-Piece (very rare) Cast/Spun 15x6 16.0
+Superlight Sports Cast 10x4.5 7.9
+Superlight Sports Cast 12x5 9.0
+Superlight Sports Cast 13x6 10.0
+Superlight Sports Cast 13x7 11.0
+Superlight Sports Cast 13x8 13.0
+Superlight Sports Cast 14x6 14.3
+Superlight Sports Cast 15x6 17.6
+Superlight Sports Cast 15x7 19.6
+Superlight Sports Cast 15x8 19.9
+Superlight Sports Cast 16x7 22.0
+Team Dynamics DTM Cast 16x7.5 17.6
+Team Dynamics Monza Cast 17x7 22.5
+Team Dynamics Motorsport Cast 16x7 19.8
+Team Dynamics Motorsport Cast 17x7 23.0
+Team Dynamics Motorsport Cast 18x8 24.0
+Team Dynamics Phantom Cast 17x7 21.8
+Team Dynamics Qualifier Cast 15x7 15.0
+Team Dynamics Qualifier Cast 18x8 21.0
+Team Dynamics Raider Cast 17x7 24.0
+Team Dynamics Rim 2000 Cast 17x7.5 21.5
+Team Dynamics Sebring DTM Cast 17x7.5 22.5
+Team Dynamics Super Touring Cast 17x7.5 22.0
+Team Dynamics Tornado Cast 17x7 19.8
+Team Dynamics Visage Forged 18x8 17.4
+Team Loco 142 Cast 16x7 22.0
+Team Loco Kai Cast 17x7 23.0
+Team Loco Shako Tan Cast 17x7 23.0
+Team Toyota Europe GT-1 Cast 18x8 24.0
+Tecnocast Corsia Forged 17x7 14.8
+Tecnomagnesio Cast-Mg 15x6.5 10.9
+Tecnomagnesio MT 5B2 Cast-Mg 16x7 15.4
+Tecnomagnesio MT 5B2 Cast-Mg 17x8 16.3
+Tecnomagnesio MT 5B2 Cast-Mg 17x8.5 17.6
+Tecnomagnesio MT 5B2 Cast-Mg 17x10 18.0
+Tecnomagnesio MT 5B2 Cast-Mg 18x10 20.5
+Tecnomagnesio MT 6B3 Cast-Mg 17x7 19.0
+Tecnomagnesio MT 6B3 Cast-Mg 17x8 19.4
+Tecnomagnesio MT 6B3 Cast-Mg 17x9 20.5
+Tecnomagnesio MT 6B3 Cast-Mg 18x10 22.7
+Tecnomagnesio Sport Cast 15x6.5 17.6
+Tecnomagnesio Sport Cast 16x7 19.6
+Tecnomagnesio Sport Cast 17x7 24.8
+Tenzo-R 2-Type Cast 17x7 20.8
+Tenzo-R AV7 Cast 17x7 2
+Tenzo-R Poke-10 Cast 17x7 20.3
+Tenzo-R Psycho Cast 17x7 19.2
+Tenzo-R RS-5 Cast 17x7 20.3
+Tenzo-R Shu-4 Cast 17x7 19.5
+Tenzo-R Sinko-R Cast 15x6.5 12.3
+Tenzo-R Sinko-R Cast 17x7 21.2
+TGF MX Cast 17x7 18.3
+TMW GTV Cast 17x7 19.5
+TMW RX Cast 17x7 20.3
+TMW RX Cast 18x7.5 24.0
+TOM's New Action Cast/Spun 14x6 11.1
+TOM's New Action Cast/Spun 15x6.5 12.2
+TOM's New Sports II Forged 18x7.5 15.0
+TOM's S2 Cast 18x8.5 23.8
+TOM's S4 Spiker Cast 15x6.5 15.5
+TommyKaira ProR SSF 17x7 15.9
+TOORA Monotoora (Erebuni) Cast 15x7 22.0
+TRD Sports SC430 Cast 18x8 28.0
+TRD Sports T3 Forged 15x6.5 11.4
+TRD Sports T3 Forged 16x7 14.9
+TRD Sports T3 Forged 16x8 15.7
+TRD Sports T3 Forged 17x7.5 18.5
+TRD Sports T3 Forged 17x8 18.7
+TRD Sports T3 Forged 17x8.5 19.0
+TRM Sniper Cast 18x9 27.0
+TRM Typhoon Cast 17x7 23.0
+TRM Typhoon Cast 18x9 26.5
+TSW Alpine Cast 14x6 15.5
+TSW Alpine Cast 15x6.5 19.4
+TSW Avus R Cast 15x7 19.4
+TSW Avus R Cast 16x7.5 21.7
+TSW Big Deep Cast 17x7 23.3
+TSW Blade Cast 16x7.5 21.0
+TSW Edge Cast 17x7 21.8
+TSW Evo Cast 15x7 17.0
+TSW Evo Cast 16x7 20.4
+TSW Eurace Cast 17x7 24.3
+TSW Fly Cast 15x7 18.5
+TSW Fly Cast 16x7 20.7
+TSW Fly Cast 17x7 22.8
+TSW Fury Cast 15x6.5 16.5
+TSW Hockenheim Cast 15x7 18.8
+TSW Hockenheim Cast 17x8 23.8
+TSW Hockenheim Cast 18x8 25.5
+TSW Quad Cast 14x6 12.5
+TSW Quad Cast 15x6.5 15.0
+TSW Revo Cast 16x7 20.4
+TSW Revo Cast 17x7 24.8
+TSW SGV Cast 16x7 22.0
+TSW SGV Cast 18x8 30.5
+TSW Spirit Cast 18x8 27.5
+TSW Trophy Cast 15x7 19.0
+TSW VX1 Cast 16x7 22.5
+TSW VX1 Cast 17x7 24.0
+TSW VX1 Cast 18x8 27.0
+TSW Zenon Cast 17x7 24.0
+Ultra Wheels Cast 17x7.5 24.8
+Ultra Wheels Cast 20x8.5 44.5
+Ultra Wheels Koge Cast 17x7 25.0
+Veilside Andrew Racing eF Cast 18x7 27.5
+Veilside Andrew Racing Pasha D Cast 17x7 22.0
+Velox Hyperion Cast 20x8.5 29.4
+Velox VX-5 Cast 19x8 27.0
+Vision 814 Cast 16x7 22.0
+Vision 818 Cast 14x6 15.0
+Vision 818 Cast 16x7 21.3
+Vision 96 Cast 16x7.5 22.8
+Volk CE28N Forged 14x5.5 6.5
+Volk CE28N Forged 15x7 9.1
+Volk CE28N Forged 17x7.5 13.8
+Volk CE28N Forged 17x9 14.8
+Volk Daytona Speed Cast 17x8 24.0
+Volk Gram Lights Cast 17x7.5 17.0
+Volk GTA Forged/Spun 17x9 21.0
+Volk GTN Forged/Spun 18x7.5 18.5
+Volk GTN Forged/Spun 18x8.5 19.0
+Volk GTP Forged/Spun 17x9 19.5
+Volk SE37K Forged 17x7.5 14.3
+Volk SE37K Forged 18x9.5 16.8
+Volk Sebring ITC Cast 18x7.5 21.5
+Volk SS Cast 18x7.5 25.0
+Volk TE37 Forged 13x8 8.3
+Volk TE37 Forged 14x5.5 8.5
+Volk TE37 Forged 15x6 8.2
+Volk TE37 Forged 15x6.5 8.8
+Volk TE37 Forged 15x7 9.2
+Volk TE37 Forged 16x7 11.2
+Volk TE37 Forged 16x7.5 11.3
+Volk TE37 Forged 16x8 13.3
+Volk TE37 Forged 17x7.5 15.0
+Volk TE37 Forged 18x7.5 17.0
+Volk TE37 Mag Forged-Mg 18x8.5 12.9
+Volk Versus Tourismo Spada Cast 18x7.5 25.5
+Voxx Argus Cast 17x7 22.5
+Voxx Forza Cast 18x9 30.4
+Voxx JB Cast 18x8 24.3
+Voxx Scorze Cast 18x9 30.6
+Wed's Celeb V2 Cast 16x7 19.0
+Wed's RS-5 (Original design) Cast/Spun 15x6.5 13.5
+Wed's RS-5 Super Street Cast 14x5 8.9
+Wed's RS-5 Super Street Cast 15x5 9.2
+Wed's RS-5 Super Street Cast 16x7 13.5
+Wed's RS-5 Super Street Cast 17x7.5 15.6
+Wed's TC-005 SSF 15x6.5 10.2
+Wed's TC-005 SSF 15x7 10.7
+Wed's TC-005 SSF 15x7.5 11.0
+Wed's TC-005 SSF 16x7 12.7
+Wed's TC-005 SSF 16x7.5 13.2
+Wed's TC-005 SSF 16x8 13.9
+Wed's TC-005 SSF 17x7 13.8
+Wed's TC-005 SSF 17x7.5 14.2
+Wed's TC-005 SSF 17x8 14.9
+Wed's TC-005 SSF 17x8.5 15.3
+Wed's TC-005 SSF 17x9 15.8
+Wed's TC-005 SSF 17x9.5 16.3
+Wed's TC-005 SSF 18x10 18.9
+Wed's TC-005 SSF 18x7.5 16.8
+Wed's TC-005 SSF 18x8 17.7
+Wed's TC-005 SSF 18x8.5 17.9
+Wed's TC-005 SSF 18x9 18.6
+Weld (racing only) Cast 13x8 9.5
+Weld (racing only) Cast 13x9 10.0
+Weld EVO Forged 16x8 16.2
+Weld EVO Espada SL Forged 20x8.5 28.6
+Weld EVO R-71 Forged 18x8 23.0
+Weld EVO R-76 Forged 17x8 20.0
+Weld EVO SL-5 Forged 17x7 20.0
+Weld Magnum Import Drag Forged 13x8 8.6
+Weld Type 76 Forged 15x7 15.0
+Western Turbine Cast 13x6 10.0
+Work CR-02 Cast 17x7 17.4
+Work CR-03 Cast 18x8 20.9
+Work Emotion Forged 17x7.5 15.3
+Work Emotion Forged 17x8.5 16.2
+Work Emotion Forged 18x7.5 16.7
+Work Emotion Forged 18x8.5 17.4
+Work Equip 01 Cast 14x7 14.1
+Work Equip 03 Cast 14x7 13.2
+Work Ewing RS Beta 3-Piece Cast 15x6.5 15.0
+Work Meister S2R Forged/Spun 17x7 19.2
+Work Meister S2R Forged/Spun 17x7.5 19.0
+Work Meister S2R Forged/Spun 17x9 20.5
+Work Meister S2R Forged/Spun 18x9 22.3
+Work Rezax II Mag Forged-Mg 18x8.5 19.0
+Work Rezax III Mag Forged-Mg 18x8 17.4
+Xenex Muse Cast 19x8 26.3
+Zen Racing Matrix Cast 18x7.5 24.0
+Zen Racing Race Cast 18x7.5 25.3
+Zenetti Cast 18x8.5 24.0
+Zenetti Cast 20x8.5 39.8
+Z-Speed Cast 15x6.5 12.3
